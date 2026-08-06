@@ -1,0 +1,11 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Скомпилированное
+out/
+target/
+*.class
+
+# ОС
+.DS_Store
