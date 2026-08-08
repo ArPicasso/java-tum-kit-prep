@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c653118-260e-4439-aa9e-6cd83d8933af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScannerInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RestaurantSoftWhileTraining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileErsteProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileSchleife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wiederholung.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,61 +41,61 @@
 }]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="9.67900167310139E-62" />
-      <entry key="MS500" value="9.912289041715572E-13" />
-      <entry key="S2" value="0.0024773590861172563" />
-      <entry key="S5" value="0.22885633775609482" />
-      <entry key="S10" value="1.1466902621748423" />
-      <entry key="S30" value="4.344101258029745" />
-      <entry key="S60" value="7.259418141377425" />
-      <entry key="M2" value="11.953704847171924" />
-      <entry key="M5" value="21.01332696958084" />
-      <entry key="M10" value="27.05341635749324" />
-      <entry key="M15" value="29.64984311725376" />
-      <entry key="M30" value="32.61333739569547" />
-      <entry key="H1" value="34.24993795943359" />
-      <entry key="H2" value="35.11027582656162" />
-      <entry key="H4" value="35.551398761107905" />
-      <entry key="D1" value="35.92470811153713" />
-      <entry key="W1" value="35.98923108356545" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.726205308109942E-86" />
+      <entry key="S2" value="6.145081554679777E-22" />
+      <entry key="S5" value="6.840832945720377E-9" />
+      <entry key="S10" value="1.8900715448757645E-4" />
+      <entry key="S30" value="0.23352944590435717" />
+      <entry key="S60" value="1.8174870707132869" />
+      <entry key="M2" value="7.106390247286426" />
+      <entry key="M5" value="26.54887952069435" />
+      <entry key="M10" value="55.45981717798154" />
+      <entry key="M15" value="77.97198368984834" />
+      <entry key="M30" value="118.50311196156458" />
+      <entry key="H1" value="151.69508802356322" />
+      <entry key="H2" value="176.91379364197746" />
+      <entry key="H4" value="203.23428868999892" />
+      <entry key="D1" value="308.19738179742603" />
+      <entry key="W1" value="364.0617716354246" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000089453" />
-      <entry key="S2" value="1.0017341575643643" />
-      <entry key="S5" value="1.086077085847716" />
-      <entry key="S10" value="1.3766486298690834" />
-      <entry key="S30" value="2.31320261127385" />
-      <entry key="S60" value="2.9395065389237143" />
-      <entry key="M2" value="3.397258894144322" />
-      <entry key="M5" value="3.7383793615186414" />
-      <entry key="M10" value="3.865465638864087" />
-      <entry key="M15" value="3.909458646001258" />
-      <entry key="M30" value="3.954297199812448" />
-      <entry key="H1" value="3.9770393830963573" />
-      <entry key="H2" value="3.9884922375615646" />
-      <entry key="H4" value="3.9942392364644457" />
-      <entry key="D1" value="3.9990389152649413" />
-      <entry key="W1" value="3.9998626787113194" />
+      <entry key="MS500" value="1.0003641274512451" />
+      <entry key="S2" value="1.1710681196012291" />
+      <entry key="S5" value="1.7085223443608921" />
+      <entry key="S10" value="2.178680517028088" />
+      <entry key="S30" value="2.794437172390194" />
+      <entry key="S60" value="3.7583400068509762" />
+      <entry key="M2" value="6.1104351097238325" />
+      <entry key="M5" value="11.850725792385031" />
+      <entry key="M10" value="18.342482714452554" />
+      <entry key="M15" value="22.97930263454655" />
+      <entry key="M30" value="30.97042486673445" />
+      <entry key="H1" value="37.28022925771927" />
+      <entry key="H2" value="41.792153704268976" />
+      <entry key="H4" value="45.96076691435529" />
+      <entry key="D1" value="56.196048780902856" />
+      <entry key="W1" value="60.19669640861119" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="5.694781442485395E-5" />
-      <entry key="MS500" value="0.14161048566410112" />
-      <entry key="S2" value="0.6164349550077932" />
-      <entry key="S5" value="1.0942276092013825" />
-      <entry key="S10" value="2.313493067852384" />
-      <entry key="S30" value="6.477291687763843" />
-      <entry key="S60" value="10.064685460971697" />
-      <entry key="M2" value="15.248515893923631" />
-      <entry key="M5" value="24.684035494233235" />
-      <entry key="M10" value="30.876374066457746" />
-      <entry key="M15" value="33.52850645912629" />
-      <entry key="M30" value="36.55084398080484" />
-      <entry key="H1" value="38.21819929517178" />
-      <entry key="H2" value="39.09427869400674" />
-      <entry key="H4" value="39.54336761997587" />
-      <entry key="D1" value="39.92336500958129" />
-      <entry key="W1" value="39.989039099018804" />
+      <entry key="MS100" value="1.5028618326964308E-4" />
+      <entry key="MS500" value="0.17204157555161542" />
+      <entry key="S2" value="0.7617478481417472" />
+      <entry key="S5" value="1.4372173870217733" />
+      <entry key="S10" value="1.9949484324273177" />
+      <entry key="S30" value="2.939798492045139" />
+      <entry key="S60" value="5.497739880621284" />
+      <entry key="M2" value="13.131812495210095" />
+      <entry key="M5" value="38.30757682820553" />
+      <entry key="M10" value="73.71299558464649" />
+      <entry key="M15" value="100.86866391331473" />
+      <entry key="M30" value="149.4111716838536" />
+      <entry key="H1" value="188.93550861323973" />
+      <entry key="H2" value="218.68288834372026" />
+      <entry key="H4" value="249.18202310522784" />
+      <entry key="D1" value="364.39049402532424" />
+      <entry key="W1" value="424.25799775965856" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -109,7 +112,11 @@
     "Application.KlugesLaden.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MeineEigeneKlasse.executor": "Run",
+    "Application.RestaurantSoftWhileTraining.executor": "Run",
     "Application.ScannerInJava.executor": "Run",
+    "Application.WhileErsteProgram.executor": "Run",
+    "Application.WhileSchleife.executor": "Run",
+    "Application.wiederholung.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -126,14 +133,7 @@
     "onboarding.tips.debug.path": "/Users/steve/IdeaProjects/HelloTUM/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ScannerInJava">
-    <configuration name="KlugesLaden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KlugesLaden" />
-      <module name="HelloTUM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RestaurantSoftWhileTraining">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -142,8 +142,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ScannerInJava" />
+    <configuration name="RestaurantSoftWhileTraining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RestaurantSoftWhileTraining" />
+      <module name="HelloTUM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileErsteProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileErsteProgram" />
+      <module name="HelloTUM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileSchleife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileSchleife" />
+      <module name="HelloTUM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wiederholung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wiederholung" />
       <module name="HelloTUM" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -151,8 +172,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScannerInJava" />
-        <item itemvalue="Application.KlugesLaden" />
+        <item itemvalue="Application.RestaurantSoftWhileTraining" />
+        <item itemvalue="Application.WhileErsteProgram" />
+        <item itemvalue="Application.WhileSchleife" />
+        <item itemvalue="Application.wiederholung" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
