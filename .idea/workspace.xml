@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c653118-260e-4439-aa9e-6cd83d8933af" name="Changes" comment="" />
+    <list default="true" id="5c653118-260e-4439-aa9e-6cd83d8933af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScannerInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +21,84 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ArPicasso"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:ArPicasso/java-tum-kit-prep.git",
+    "accountId": "ea4ca69c-6b96-4a20-a744-3cb9fda69b73"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="9.67900167310139E-62" />
+      <entry key="MS500" value="9.912289041715572E-13" />
+      <entry key="S2" value="0.0024773590861172563" />
+      <entry key="S5" value="0.22885633775609482" />
+      <entry key="S10" value="1.1466902621748423" />
+      <entry key="S30" value="4.344101258029745" />
+      <entry key="S60" value="7.259418141377425" />
+      <entry key="M2" value="11.953704847171924" />
+      <entry key="M5" value="21.01332696958084" />
+      <entry key="M10" value="27.05341635749324" />
+      <entry key="M15" value="29.64984311725376" />
+      <entry key="M30" value="32.61333739569547" />
+      <entry key="H1" value="34.24993795943359" />
+      <entry key="H2" value="35.11027582656162" />
+      <entry key="H4" value="35.551398761107905" />
+      <entry key="D1" value="35.92470811153713" />
+      <entry key="W1" value="35.98923108356545" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000089453" />
+      <entry key="S2" value="1.0017341575643643" />
+      <entry key="S5" value="1.086077085847716" />
+      <entry key="S10" value="1.3766486298690834" />
+      <entry key="S30" value="2.31320261127385" />
+      <entry key="S60" value="2.9395065389237143" />
+      <entry key="M2" value="3.397258894144322" />
+      <entry key="M5" value="3.7383793615186414" />
+      <entry key="M10" value="3.865465638864087" />
+      <entry key="M15" value="3.909458646001258" />
+      <entry key="M30" value="3.954297199812448" />
+      <entry key="H1" value="3.9770393830963573" />
+      <entry key="H2" value="3.9884922375615646" />
+      <entry key="H4" value="3.9942392364644457" />
+      <entry key="D1" value="3.9990389152649413" />
+      <entry key="W1" value="3.9998626787113194" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="5.694781442485395E-5" />
+      <entry key="MS500" value="0.14161048566410112" />
+      <entry key="S2" value="0.6164349550077932" />
+      <entry key="S5" value="1.0942276092013825" />
+      <entry key="S10" value="2.313493067852384" />
+      <entry key="S30" value="6.477291687763843" />
+      <entry key="S60" value="10.064685460971697" />
+      <entry key="M2" value="15.248515893923631" />
+      <entry key="M5" value="24.684035494233235" />
+      <entry key="M10" value="30.876374066457746" />
+      <entry key="M15" value="33.52850645912629" />
+      <entry key="M30" value="36.55084398080484" />
+      <entry key="H1" value="38.21819929517178" />
+      <entry key="H2" value="39.09427869400674" />
+      <entry key="H4" value="39.54336761997587" />
+      <entry key="D1" value="39.92336500958129" />
+      <entry key="W1" value="39.989039099018804" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3HUdUuGjiZO8JLc7FcbTZhoM4Zy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,10 +109,14 @@
     "Application.KlugesLaden.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MeineEigeneKlasse.executor": "Run",
+    "Application.ScannerInJava.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -44,7 +126,7 @@
     "onboarding.tips.debug.path": "/Users/steve/IdeaProjects/HelloTUM/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.KlugesLaden">
+  <component name="RunManager" selected="Application.ScannerInJava">
     <configuration name="KlugesLaden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KlugesLaden" />
       <module name="HelloTUM" />
@@ -60,8 +142,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ScannerInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScannerInJava" />
+      <module name="HelloTUM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScannerInJava" />
         <item itemvalue="Application.KlugesLaden" />
         <item itemvalue="Application.Main" />
       </list>
