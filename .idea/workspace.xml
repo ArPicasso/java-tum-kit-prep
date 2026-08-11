@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c653118-260e-4439-aa9e-6cd83d8933af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForSchleife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysRussianKurs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestaurantSoftWhileTraining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestaurantSoftWhileTraining.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,60 +39,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000000733" />
-      <entry key="S2" value="1.000521339149331" />
-      <entry key="S5" value="1.0570663132921119" />
-      <entry key="S10" value="1.4797226554954295" />
-      <entry key="S30" value="6.029636493883071" />
-      <entry key="S60" value="12.494892075046913" />
-      <entry key="M2" value="19.739073114932012" />
-      <entry key="M5" value="27.309677775041255" />
-      <entry key="M10" value="30.800817234483013" />
-      <entry key="M15" value="32.11298574330725" />
-      <entry key="M30" value="33.51020655151124" />
-      <entry key="H1" value="34.24319321841829" />
-      <entry key="H2" value="34.83506858450001" />
-      <entry key="H4" value="43.10933669143232" />
-      <entry key="D1" value="253.06851249707265" />
-      <entry key="W1" value="448.56438370768086" />
+      <entry key="MS500" value="1.0000000969623566" />
+      <entry key="S2" value="1.0177572769376781" />
+      <entry key="S5" value="1.2279471281084053" />
+      <entry key="S10" value="1.7023019201247171" />
+      <entry key="S30" value="4.459801656567953" />
+      <entry key="S60" value="9.301430492742972" />
+      <entry key="M2" value="15.904531731335139" />
+      <entry key="M5" value="23.363101288331723" />
+      <entry key="M10" value="26.841573978253248" />
+      <entry key="M15" value="28.145419755379578" />
+      <entry key="M30" value="29.529723596275403" />
+      <entry key="H1" value="30.25375518082182" />
+      <entry key="H2" value="30.62439295294934" />
+      <entry key="H4" value="30.97528302213124" />
+      <entry key="D1" value="132.97835075410885" />
+      <entry key="W1" value="442.66312025983893" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="2.0159641463759397E-63" />
-      <entry key="MS500" value="2.9431728557353836E-13" />
-      <entry key="S2" value="0.0010032501906421152" />
-      <entry key="S5" value="0.0931046925572981" />
-      <entry key="S10" value="0.42976428487868357" />
-      <entry key="S30" value="1.3634910735984527" />
-      <entry key="S60" value="2.5410677787012013" />
-      <entry key="M2" value="4.437514433091379" />
-      <entry key="M5" value="6.989901222311161" />
-      <entry key="M10" value="8.314035115235477" />
-      <entry key="M15" value="8.830864096198766" />
-      <entry key="M30" value="9.391456594666815" />
-      <entry key="H1" value="9.689482071503958" />
-      <entry key="H2" value="9.878243052198611" />
-      <entry key="H4" value="11.266468290144811" />
-      <entry key="D1" value="41.6251129778217" />
-      <entry key="W1" value="66.23118930569082" />
+      <entry key="MS100" value="2.655743183874517E-207" />
+      <entry key="MS500" value="4.8660959462967886E-42" />
+      <entry key="S2" value="5.969928783370227E-11" />
+      <entry key="S5" value="1.2478710802828834E-4" />
+      <entry key="S10" value="0.01932680585172579" />
+      <entry key="S30" value="0.7598562358570456" />
+      <entry key="S60" value="2.220037348606053" />
+      <entry key="M2" value="4.067195677469939" />
+      <entry key="M5" value="6.0441596847271715" />
+      <entry key="M10" value="6.94172306958186" />
+      <entry key="M15" value="7.275114578256661" />
+      <entry key="M30" value="7.627463053395683" />
+      <entry key="H1" value="7.8111276663602975" />
+      <entry key="H2" value="7.904961781721531" />
+      <entry key="H4" value="7.980912968473391" />
+      <entry key="D1" value="23.516118362243123" />
+      <entry key="W1" value="66.19645926280535" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.894866190898531E-7" />
-      <entry key="MS500" value="0.04924086787817198" />
-      <entry key="S2" value="0.47209213374537495" />
-      <entry key="S5" value="0.8683918941856957" />
-      <entry key="S10" value="1.7042963900005441" />
-      <entry key="S30" value="7.1887157195418245" />
-      <entry key="S60" value="14.833906238883333" />
-      <entry key="M2" value="24.01424829583818" />
-      <entry key="M5" value="34.207480604609856" />
-      <entry key="M10" value="39.06238573848259" />
-      <entry key="M15" value="40.907252865490115" />
-      <entry key="M30" value="42.88249982084829" />
-      <entry key="H1" value="43.922866296929556" />
-      <entry key="H2" value="44.708329611201805" />
-      <entry key="H4" value="54.372929612063096" />
-      <entry key="D1" value="294.69156408268947" />
-      <entry key="W1" value="514.7950766021149" />
+      <entry key="MS100" value="0.012958117903350655" />
+      <entry key="MS500" value="0.4192841862702581" />
+      <entry key="S2" value="0.8223099486541622" />
+      <entry key="S5" value="1.1438939136726949" />
+      <entry key="S10" value="1.672632151684766" />
+      <entry key="S30" value="5.155570380424334" />
+      <entry key="S60" value="11.44160429335286" />
+      <entry key="M2" value="19.900178854472834" />
+      <entry key="M5" value="29.36470698700885" />
+      <entry key="M10" value="33.758810690913435" />
+      <entry key="M15" value="35.40341144332805" />
+      <entry key="M30" value="37.14820212041952" />
+      <entry key="H1" value="38.06028011041662" />
+      <entry key="H2" value="38.52702507932669" />
+      <entry key="H4" value="38.95501060858225" />
+      <entry key="D1" value="156.49334713552136" />
+      <entry key="W1" value="508.859062376289" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -105,6 +106,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ForSchleife.executor": "Run",
     "Application.KlugesLaden.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MeineEigeneKlasse.executor": "Run",
@@ -129,7 +131,14 @@
     "onboarding.tips.debug.path": "/Users/steve/IdeaProjects/HelloTUM/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ForSchleife">
+  <component name="RunManager" selected="Application.ArraysRussianKurs">
+    <configuration name="ArraysRussianKurs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysRussianKurs" />
+      <module name="HelloTUM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForSchleife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForSchleife" />
       <module name="HelloTUM" />
@@ -158,20 +167,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wiederholung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wiederholung" />
-      <module name="HelloTUM" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ForSchleife" />
+        <item itemvalue="Application.ArraysRussianKurs" />
         <item itemvalue="Application.RestaurantSoftWhileTraining" />
+        <item itemvalue="Application.ForSchleife" />
         <item itemvalue="Application.WhileErsteProgram" />
         <item itemvalue="Application.WhileSchleife" />
-        <item itemvalue="Application.wiederholung" />
       </list>
     </recent_temporary>
   </component>

@@ -15,7 +15,7 @@ public class RestaurantSoftWhileTraining {
                 System.out.println("ein Platz für "+ reservedGuests + " gebucht");
                 totalGuests += reservedGuests;
             } else if (input.equals("2")){
-                System.out.println("Es geht um "+totalGuests + " Personen");
+                System.out.println("Es geht um "+ totalGuests + " Personen");
             } else if (input.equals("3")) {
                 System.out.println("Program beendet sich...");
                 status = false;
