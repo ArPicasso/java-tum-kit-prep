@@ -26,6 +26,7 @@ public class SchlangeSpiel {
 
             //Вывод поля
             System.out.println(SpielFeld(SpielLogik(input, heroes[0]), heroes[1], heroes[2], heroes[3], IstGold));
+
             if (heroes[0].equals(heroes[1])) {
                 IstGold = true;
                 System.out.println("Пользователь собрал монету!");
@@ -41,24 +42,35 @@ public class SchlangeSpiel {
     }
 
     private static Point SpielLogik(String input, Point SpielerPoint) {
-
-        //Движения пользователя
-        if (input.equals("w")){
-            SpielerPoint.y--;
-            return SpielerPoint;
-        } else if (input.equals("a")){
-            SpielerPoint.x--;
-            return SpielerPoint;
-        } else if (input.equals("s")){
-            SpielerPoint.y++;
-            return SpielerPoint;
-        } else if (input.equals("d")){
-            SpielerPoint.x++;
-            return SpielerPoint;
-        } else{
+        if (input.equals("w")) {
+            if (SpielerPoint.y > 0) {
+                SpielerPoint.y--;
+            } else {
+                System.out.println("Вы уперлись в верхнюю границу!");
+            }
+        } else if (input.equals("s")) {
+            if (SpielerPoint.y < 4) {
+                SpielerPoint.y++;
+            } else {
+                System.out.println("Вы уперлись в нижнюю границу!");
+            }
+        } else if (input.equals("a")) {
+            if (SpielerPoint.x > 0) {
+                SpielerPoint.x--;
+            } else {
+                System.out.println("Вы уперлись в левую границу!");
+            }
+        } else if (input.equals("d")) {
+            if (SpielerPoint.x < 9) {
+                SpielerPoint.x++;
+            } else {
+                System.out.println("Вы уперлись в правую границу!");
+            }
+        } else {
             System.out.println("Wrong Input");
-            return SpielerPoint;
         }
+
+        return SpielerPoint;
     }
 
     private static Point[] SpielHeroes() {
@@ -96,15 +108,15 @@ public class SchlangeSpiel {
                     Point currentPoint = new Point(x,y);
                     //Расстановка наших игроков и самого поля
                     if (currentPoint.equals(SpielerPoint)){
-                        SpielFeld += "P";
+                        SpielFeld += "\uD83D\uDEB6";
                     } else if (currentPoint.equals(GoldPoint)){
-                        SpielFeld += "G";
+                        SpielFeld += "\uD83D\uDCB0";
                     } else if (currentPoint.equals(TuerPoint)){
-                        SpielFeld += "T";
+                        SpielFeld += "\uD83D\uDEAA";
                     } else if (currentPoint.equals(SchlangePoint)){
-                        SpielFeld += "S";
+                        SpielFeld += "\uD83D\uDC0D";
                     } else {
-                        SpielFeld += ".";
+                        SpielFeld += "\u2B1B";
                     }
                 }
                 SpielFeld += "\n";
@@ -116,15 +128,15 @@ public class SchlangeSpiel {
 
                     //Расстановка наших игроков и самого поля
                     if (currentPoint.equals(SpielerPoint)){
-                        SpielFeld += "P";
+                        SpielFeld += "\uD83D\uDEB6";
                     } else if (currentPoint.equals(GoldPoint)){
-                        SpielFeld += ".";
+                        SpielFeld += "\u2B1B";
                     } else if (currentPoint.equals(TuerPoint)){
-                        SpielFeld += "T";
+                        SpielFeld += "\uD83D\uDEAA";
                     } else if (currentPoint.equals(SchlangePoint)){
-                        SpielFeld += "S";
+                        SpielFeld += "\uD83D\uDC0D";
                     } else {
-                        SpielFeld += ".";
+                        SpielFeld += "\u2B1B";
                     }
                 }
                 SpielFeld += "\n";
