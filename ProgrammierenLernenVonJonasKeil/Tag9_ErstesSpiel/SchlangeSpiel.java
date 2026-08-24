@@ -2,12 +2,21 @@ package Tag9_ErstesSpiel;
 import java.awt.Point;
 import java.util.Random;
 import java.util.Scanner;
+
+//Добавить логику хождения в квадрате (ограничение по квадрату)
+//Обработчик сбора денег или врезаний
+
 public class SchlangeSpiel {
     public static void main(String[] args){
+        //Запуск игры и начало действия | Статус: Активно
         boolean SpielStatus = true;
+
+        //Генерация поля и позиций
         Point[] heroes = SpielHeroes();
         String HauptSpielFeld = SpielFeld(heroes[0], heroes[1], heroes[2], heroes[3]);
-        System.out.println(HauptSpielFeld);
+
+
+        //System.out.println(HauptSpielFeld);
         while (SpielStatus){
             Scanner scan = new Scanner(System.in);
             String input = scan.nextLine();
@@ -17,6 +26,8 @@ public class SchlangeSpiel {
     }
 
     private static Point SpielLogik(String input, Point SpielerPoint) {
+
+        //Движения пользователя
         if (input.equals("w")){
             SpielerPoint.y--;
             return SpielerPoint;
@@ -36,20 +47,23 @@ public class SchlangeSpiel {
     }
 
     private static Point[] SpielHeroes() {
+
         boolean GenStatus;
 
         Random random = new Random();
 
-
+        //Генерация точек
         Point SpielerPoint = new Point(random.nextInt(10),random.nextInt(5));
         Point GoldPoint = new Point(random.nextInt(10),random.nextInt(5));
         Point TuerPoint = new Point(random.nextInt(10),random.nextInt(5));
         Point SchlangePoint = new Point(random.nextInt(10),random.nextInt(5));
 
+
+        //Проверка правильности создания точек
         if (!(TuerPoint.x == SchlangePoint.x && TuerPoint.y == SchlangePoint.y) && !(GoldPoint.x == SchlangePoint.x && GoldPoint.y == SchlangePoint.y) && !(SpielerPoint.x == SchlangePoint.x && SpielerPoint.y == SchlangePoint.y) && !(GoldPoint.x == TuerPoint.x && GoldPoint.y == TuerPoint.y)){
             GenStatus = true;
-            System.out.println("Heroes sind generiert");
-            System.out.println("Positionen sind: \n" + SpielerPoint.x + " " + SpielerPoint.y + " für Spieler \n"+ GoldPoint.x + " " + GoldPoint.y + " für Gold \n"+ TuerPoint.x + " " + TuerPoint.y + " für Tür \n" + SchlangePoint.x  + " " + SchlangePoint.y + " für Schlange");
+            //System.out.println("Heroes sind generiert");
+            //System.out.println("Positionen sind: \n" + SpielerPoint.x + " " + SpielerPoint.y + " für Spieler \n"+ GoldPoint.x + " " + GoldPoint.y + " für Gold \n"+ TuerPoint.x + " " + TuerPoint.y + " für Tür \n" + SchlangePoint.x  + " " + SchlangePoint.y + " für Schlange");
             return new Point[]{SpielerPoint, GoldPoint, TuerPoint, SchlangePoint};
         } else {
             GenStatus = false;
@@ -59,11 +73,13 @@ public class SchlangeSpiel {
     }
 
     public static String SpielFeld(Point SpielerPoint, Point GoldPoint, Point TuerPoint, Point SchlangePoint){
-        //Spielfeld 10x5
+        //Создания поля 10x5
         String SpielFeld = "";
         for (int y=0; y<5; y++){
             for (int x=0; x<10; x++){
                 Point currentPoint = new Point(x,y);
+
+                //Расстановка наших игроков и самого поля
                 if (currentPoint.equals(SpielerPoint)){
                     SpielFeld += "P";
                 } else if (currentPoint.equals(GoldPoint)){
@@ -78,7 +94,7 @@ public class SchlangeSpiel {
             }
             SpielFeld += "\n";
         }
-        System.out.println("Spielfeld ist generiert");
+        //System.out.println("Spielfeld ist generiert");
         return SpielFeld;
 
     }
