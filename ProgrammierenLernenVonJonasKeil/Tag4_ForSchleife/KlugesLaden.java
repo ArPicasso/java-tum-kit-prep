@@ -1,3 +1,5 @@
+package Tag4_ForSchleife;
+
 public class KlugesLaden {
     public static void main(String[] args)  throws InterruptedException {
         boolean is_bought_watermelon = true;

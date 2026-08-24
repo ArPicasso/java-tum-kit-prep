@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c653118-260e-4439-aa9e-6cd83d8933af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArraysRussianKurs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag2_VariablenIfElseScanner/Test1307.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag6_Arrays/DoubleArrayDurchschnittChalenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag6_Arrays/StringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag7_RandomKlasse/DayChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag7_RandomKlasse/RandomString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag7_RandomKlasse/RandomZahl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag8_Methoden/EinfacheRechner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag8_Methoden/MethodeHelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RestaurantSoftWhileTraining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestaurantSoftWhileTraining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloTUM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloTUM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysRussianKurs.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag6_Arrays/IntArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForSchleife.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag4_ForSchleife/ForSchleife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KlugesLaden.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag4_ForSchleife/KlugesLaden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MeineEigeneKlasse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestaurantSoftWhileTraining.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag5_Training/RestaurantSoftWhileTraining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScannerInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag2_VariablenIfElseScanner/ScannerInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WhileErsteProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag3_WhileSchleife/WhileErsteProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WhileSchleife.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag3_WhileSchleife/WhileSchleife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wiederholung.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag2_VariablenIfElseScanner/wiederholung.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,75 +41,75 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ArPicasso"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ArPicasso&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:ArPicasso/java-tum-kit-prep.git",
-    "accountId": "ea4ca69c-6b96-4a20-a744-3cb9fda69b73"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:ArPicasso/java-tum-kit-prep.git&quot;,
+    &quot;accountId&quot;: &quot;ea4ca69c-6b96-4a20-a744-3cb9fda69b73&quot;
   }
-}]]></component>
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000969623566" />
-      <entry key="S2" value="1.0177572769376781" />
-      <entry key="S5" value="1.2279471281084053" />
-      <entry key="S10" value="1.7023019201247171" />
-      <entry key="S30" value="4.459801656567953" />
-      <entry key="S60" value="9.301430492742972" />
-      <entry key="M2" value="15.904531731335139" />
-      <entry key="M5" value="23.363101288331723" />
-      <entry key="M10" value="26.841573978253248" />
-      <entry key="M15" value="28.145419755379578" />
-      <entry key="M30" value="29.529723596275403" />
-      <entry key="H1" value="30.25375518082182" />
-      <entry key="H2" value="30.62439295294934" />
-      <entry key="H4" value="30.97528302213124" />
-      <entry key="D1" value="132.97835075410885" />
-      <entry key="W1" value="442.66312025983893" />
+      <entry key="MS100" value="0.002197379852909703" />
+      <entry key="MS500" value="0.29553801366007504" />
+      <entry key="S2" value="1.1388474549106404" />
+      <entry key="S5" value="2.800642542378053" />
+      <entry key="S10" value="5.22490990299624" />
+      <entry key="S30" value="13.070694432096737" />
+      <entry key="S60" value="19.921352478048945" />
+      <entry key="M2" value="26.560630415690774" />
+      <entry key="M5" value="35.629985464404676" />
+      <entry key="M10" value="41.61510684037514" />
+      <entry key="M15" value="44.268813197023654" />
+      <entry key="M30" value="47.368680206694954" />
+      <entry key="H1" value="49.75666253747018" />
+      <entry key="H2" value="62.110942825617165" />
+      <entry key="H4" value="106.44126616781094" />
+      <entry key="D1" value="313.5907126850898" />
+      <entry key="W1" value="742.2892133628084" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="2.655743183874517E-207" />
-      <entry key="MS500" value="4.8660959462967886E-42" />
-      <entry key="S2" value="5.969928783370227E-11" />
-      <entry key="S5" value="1.2478710802828834E-4" />
-      <entry key="S10" value="0.01932680585172579" />
-      <entry key="S30" value="0.7598562358570456" />
-      <entry key="S60" value="2.220037348606053" />
-      <entry key="M2" value="4.067195677469939" />
-      <entry key="M5" value="6.0441596847271715" />
-      <entry key="M10" value="6.94172306958186" />
-      <entry key="M15" value="7.275114578256661" />
-      <entry key="M30" value="7.627463053395683" />
-      <entry key="H1" value="7.8111276663602975" />
-      <entry key="H2" value="7.904961781721531" />
-      <entry key="H4" value="7.980912968473391" />
-      <entry key="D1" value="23.516118362243123" />
-      <entry key="W1" value="66.19645926280535" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000005629" />
+      <entry key="S2" value="1.0008662073292505" />
+      <entry key="S5" value="1.0595735428961113" />
+      <entry key="S10" value="1.244877441823427" />
+      <entry key="S30" value="1.7178736417059848" />
+      <entry key="S60" value="2.102337711847319" />
+      <entry key="M2" value="2.5584756133511855" />
+      <entry key="M5" value="3.3842570727138663" />
+      <entry key="M10" value="3.997171849460558" />
+      <entry key="M15" value="4.277018083428123" />
+      <entry key="M30" value="4.608253717100642" />
+      <entry key="H1" value="4.938919633504083" />
+      <entry key="H2" value="7.552350699910167" />
+      <entry key="H4" value="17.131440795655326" />
+      <entry key="D1" value="59.70156878873911" />
+      <entry key="W1" value="125.11134681732341" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.012958117903350655" />
-      <entry key="MS500" value="0.4192841862702581" />
-      <entry key="S2" value="0.8223099486541622" />
-      <entry key="S5" value="1.1438939136726949" />
-      <entry key="S10" value="1.672632151684766" />
-      <entry key="S30" value="5.155570380424334" />
-      <entry key="S60" value="11.44160429335286" />
-      <entry key="M2" value="19.900178854472834" />
-      <entry key="M5" value="29.36470698700885" />
-      <entry key="M10" value="33.758810690913435" />
-      <entry key="M15" value="35.40341144332805" />
-      <entry key="M30" value="37.14820212041952" />
-      <entry key="H1" value="38.06028011041662" />
-      <entry key="H2" value="38.52702507932669" />
-      <entry key="H4" value="38.95501060858225" />
-      <entry key="D1" value="156.49334713552136" />
-      <entry key="W1" value="508.859062376289" />
+      <entry key="MS100" value="0.0047170906683924275" />
+      <entry key="MS500" value="0.47462426375523864" />
+      <entry key="S2" value="1.7244184417484043" />
+      <entry key="S5" value="3.576500647235204" />
+      <entry key="S10" value="6.222066204594194" />
+      <entry key="S30" value="14.601485207698545" />
+      <entry key="S60" value="21.8822361480534" />
+      <entry key="M2" value="29.017437624995377" />
+      <entry key="M5" value="38.949717450101424" />
+      <entry key="M10" value="45.57121257503461" />
+      <entry key="M15" value="48.51579758688332" />
+      <entry key="M30" value="51.960355210789956" />
+      <entry key="H1" value="54.686721259681306" />
+      <entry key="H2" value="69.65758149828032" />
+      <entry key="H4" value="123.56757293126046" />
+      <entry key="D1" value="373.28967211002043" />
+      <entry key="W1" value="867.3997111696974" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -106,14 +123,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArraysRussianKurs.executor": "Run",
+    "Application.DayChallenge.executor": "Run",
+    "Application.DoubleArrayDurchschnittChalenge.executor": "Run",
+    "Application.EinfacheRechner.executor": "Run",
     "Application.ForSchleife.executor": "Run",
     "Application.KlugesLaden.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MeineEigeneKlasse.executor": "Run",
+    "Application.Random2108.executor": "Run",
+    "Application.RandomString.executor": "Run",
     "Application.RestaurantSoftWhileTraining.executor": "Run",
     "Application.ScannerInJava.executor": "Run",
+    "Application.StringArray.executor": "Run",
+    "Application.Test1307.executor": "Run",
     "Application.WhileErsteProgram.executor": "Run",
     "Application.WhileSchleife.executor": "Run",
+    "Application.test2008.executor": "Run",
     "Application.wiederholung.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -121,59 +147,94 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/steve/IdeaProjects/HelloTUM/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/steve/IdeaProjects/HelloTUM/src/Main.java",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArraysRussianKurs">
-    <configuration name="ArraysRussianKurs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysRussianKurs" />
+  <component name="RunManager" selected="Application.EinfacheRechner">
+    <configuration name="DayChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag7_RandomKlasse.DayChallenge" />
       <module name="HelloTUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tag7_RandomKlasse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForSchleife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForSchleife" />
+    <configuration name="DoubleArrayDurchschnittChalenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag6_Arrays.DoubleArrayDurchschnittChalenge" />
       <module name="HelloTUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tag6_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestaurantSoftWhileTraining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RestaurantSoftWhileTraining" />
+    <configuration name="EinfacheRechner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag8_Methoden.EinfacheRechner" />
       <module name="HelloTUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tag8_Methoden.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileErsteProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileErsteProgram" />
+    <configuration name="RandomString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag7_RandomKlasse.RandomString" />
       <module name="HelloTUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tag7_RandomKlasse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileSchleife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileSchleife" />
+    <configuration name="StringArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag6_Arrays.StringArray" />
       <module name="HelloTUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tag6_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArraysRussianKurs" />
-        <item itemvalue="Application.RestaurantSoftWhileTraining" />
-        <item itemvalue="Application.ForSchleife" />
-        <item itemvalue="Application.WhileErsteProgram" />
-        <item itemvalue="Application.WhileSchleife" />
+        <item itemvalue="Application.EinfacheRechner" />
+        <item itemvalue="Application.DoubleArrayDurchschnittChalenge" />
+        <item itemvalue="Application.StringArray" />
+        <item itemvalue="Application.DayChallenge" />
+        <item itemvalue="Application.RandomString" />
       </list>
     </recent_temporary>
   </component>
@@ -197,5 +258,25 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag2_VariablenIfElseScanner/Test1307.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag7_RandomKlasse/RandomZahl.java</url>
+          <line>3</line>
+          <properties class="Tag7_RandomKlasse.RandomZahl" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

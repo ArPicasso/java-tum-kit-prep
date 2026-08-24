@@ -1,6 +1,8 @@
+package Tag6_Arrays;
+
 import java.util.Arrays;
 
-public class ArraysRussianKurs {
+public class IntArray {
     public static void main(String[] args) {
         int[] array = new int[5];
 
@@ -13,4 +15,5 @@ public class ArraysRussianKurs {
 
         System.out.println("Итоговый список : " + Arrays.toString(array));
     }
+
 }

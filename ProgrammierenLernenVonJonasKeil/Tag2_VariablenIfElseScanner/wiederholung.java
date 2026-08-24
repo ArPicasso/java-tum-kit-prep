@@ -1,3 +1,5 @@
+package Tag2_VariablenIfElseScanner;
+
 import java.util.Scanner;
 
 public class wiederholung {

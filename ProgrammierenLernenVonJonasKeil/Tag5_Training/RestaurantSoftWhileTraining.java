@@ -1,3 +1,5 @@
+package Tag5_Training;
+
 import java.util.Scanner;
 public class RestaurantSoftWhileTraining {
     public static void main (String[] args){

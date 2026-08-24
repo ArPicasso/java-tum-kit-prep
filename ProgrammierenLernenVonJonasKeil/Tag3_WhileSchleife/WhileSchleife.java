@@ -1,3 +1,5 @@
+package Tag3_WhileSchleife;
+
 public class WhileSchleife {
     public static void main(String[] args){
         int counter = 10;

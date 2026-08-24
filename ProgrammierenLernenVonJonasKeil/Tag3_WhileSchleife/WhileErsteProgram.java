@@ -1,3 +1,5 @@
+package Tag3_WhileSchleife;
+
 import java.util.Scanner;
 public class WhileErsteProgram {
     public static void main(String[] args){
