@@ -8,5 +8,6 @@ public class ScannerInJava {
         String sentence;
         sentence = scan.nextLine();
         System.out.println("Dein Satz ist: " + sentence);
+
     }
 }

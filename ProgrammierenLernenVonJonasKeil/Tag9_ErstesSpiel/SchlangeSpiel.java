@@ -6,10 +6,33 @@ public class SchlangeSpiel {
     public static void main(String[] args){
         boolean SpielStatus = true;
         Point[] heroes = SpielHeroes();
-        SpielFeld(heroes[0], heroes[1], heroes[2], heroes[3]);
-        //while (SpielStatus){
+        String HauptSpielFeld = SpielFeld(heroes[0], heroes[1], heroes[2], heroes[3]);
+        System.out.println(HauptSpielFeld);
+        while (SpielStatus){
+            Scanner scan = new Scanner(System.in);
+            String input = scan.nextLine();
+            System.out.println(SpielFeld(SpielLogik(input, heroes[0]), heroes[1], heroes[2], heroes[3]));
 
+        }
+    }
 
+    private static Point SpielLogik(String input, Point SpielerPoint) {
+        if (input.equals("w")){
+            SpielerPoint.y--;
+            return SpielerPoint;
+        } else if (input.equals("a")){
+            SpielerPoint.x--;
+            return SpielerPoint;
+        } else if (input.equals("s")){
+            SpielerPoint.y++;
+            return SpielerPoint;
+        } else if (input.equals("d")){
+            SpielerPoint.x++;
+            return SpielerPoint;
+        } else{
+            System.out.println("Wrong Input");
+            return SpielerPoint;
+        }
     }
 
     private static Point[] SpielHeroes() {
@@ -35,33 +58,29 @@ public class SchlangeSpiel {
         }
     }
 
-    public static void SpielFeld(Point SpielerPoint, Point GoldPoint, Point TuerPoint, Point SchlangePoint){
+    public static String SpielFeld(Point SpielerPoint, Point GoldPoint, Point TuerPoint, Point SchlangePoint){
         //Spielfeld 10x5
+        String SpielFeld = "";
         for (int y=0; y<5; y++){
             for (int x=0; x<10; x++){
                 Point currentPoint = new Point(x,y);
                 if (currentPoint.equals(SpielerPoint)){
-                    System.out.print("P");
+                    SpielFeld += "P";
                 } else if (currentPoint.equals(GoldPoint)){
-                    System.out.print("G");
+                    SpielFeld += "G";
                 } else if (currentPoint.equals(TuerPoint)){
-                    System.out.print("T");
+                    SpielFeld += "T";
                 } else if (currentPoint.equals(SchlangePoint)){
-                    System.out.print("S");
+                    SpielFeld += "S";
                 } else {
-                    System.out.print(".");
+                    SpielFeld += ".";
                 }
             }
-            System.out.println("");
+            SpielFeld += "\n";
         }
         System.out.println("Spielfeld ist generiert");
+        return SpielFeld;
 
     }
-    public static void SpielLogik(){
-        Scanner scan = new Scanner(System.in);
-        String input = scan.nextLine();
-        if (input == "w"){
 
-        }
-    }
 }
