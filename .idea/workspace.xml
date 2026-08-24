@@ -5,31 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c653118-260e-4439-aa9e-6cd83d8933af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag2_VariablenIfElseScanner/Test1307.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag6_Arrays/DoubleArrayDurchschnittChalenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag6_Arrays/StringArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag7_RandomKlasse/DayChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag7_RandomKlasse/RandomString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag7_RandomKlasse/RandomZahl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag8_Methoden/EinfacheRechner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag8_Methoden/MethodeHelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag9_ErstesSpiel/SchlangeSpiel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloTUM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloTUM.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraysRussianKurs.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag6_Arrays/IntArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForSchleife.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag4_ForSchleife/ForSchleife.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KlugesLaden.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag4_ForSchleife/KlugesLaden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MeineEigeneKlasse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RestaurantSoftWhileTraining.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag5_Training/RestaurantSoftWhileTraining.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ScannerInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag2_VariablenIfElseScanner/ScannerInJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileErsteProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag3_WhileSchleife/WhileErsteProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileSchleife.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag3_WhileSchleife/WhileSchleife.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wiederholung.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag2_VariablenIfElseScanner/wiederholung.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="26" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,63 +38,67 @@
     &quot;accountId&quot;: &quot;ea4ca69c-6b96-4a20-a744-3cb9fda69b73&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.002197379852909703" />
-      <entry key="MS500" value="0.29553801366007504" />
-      <entry key="S2" value="1.1388474549106404" />
-      <entry key="S5" value="2.800642542378053" />
-      <entry key="S10" value="5.22490990299624" />
-      <entry key="S30" value="13.070694432096737" />
-      <entry key="S60" value="19.921352478048945" />
-      <entry key="M2" value="26.560630415690774" />
-      <entry key="M5" value="35.629985464404676" />
-      <entry key="M10" value="41.61510684037514" />
-      <entry key="M15" value="44.268813197023654" />
-      <entry key="M30" value="47.368680206694954" />
-      <entry key="H1" value="49.75666253747018" />
-      <entry key="H2" value="62.110942825617165" />
-      <entry key="H4" value="106.44126616781094" />
-      <entry key="D1" value="313.5907126850898" />
-      <entry key="W1" value="742.2892133628084" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000000540424605" />
+      <entry key="S5" value="1.0101551306449792" />
+      <entry key="S10" value="1.315697562451291" />
+      <entry key="S30" value="4.71746478315133" />
+      <entry key="S60" value="9.444298259184624" />
+      <entry key="M2" value="16.27066674962947" />
+      <entry key="M5" value="32.03078629888368" />
+      <entry key="M10" value="55.75069136989271" />
+      <entry key="M15" value="78.32015342558627" />
+      <entry key="M30" value="131.50764524377965" />
+      <entry key="H1" value="187.82666204563154" />
+      <entry key="H2" value="235.71033499935405" />
+      <entry key="H4" value="274.11767551922424" />
+      <entry key="D1" value="363.15214604591614" />
+      <entry key="W1" value="886.0200878181513" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000005629" />
-      <entry key="S2" value="1.0008662073292505" />
-      <entry key="S5" value="1.0595735428961113" />
-      <entry key="S10" value="1.244877441823427" />
-      <entry key="S30" value="1.7178736417059848" />
-      <entry key="S60" value="2.102337711847319" />
-      <entry key="M2" value="2.5584756133511855" />
-      <entry key="M5" value="3.3842570727138663" />
-      <entry key="M10" value="3.997171849460558" />
-      <entry key="M15" value="4.277018083428123" />
-      <entry key="M30" value="4.608253717100642" />
-      <entry key="H1" value="4.938919633504083" />
-      <entry key="H2" value="7.552350699910167" />
-      <entry key="H4" value="17.131440795655326" />
-      <entry key="D1" value="59.70156878873911" />
-      <entry key="W1" value="125.11134681732341" />
+      <entry key="MS100" value="8.058558908137464E-104" />
+      <entry key="MS500" value="2.4057597717234123E-21" />
+      <entry key="S2" value="7.259972158904374E-6" />
+      <entry key="S5" value="0.011002986386641857" />
+      <entry key="S10" value="0.14614039300786774" />
+      <entry key="S30" value="1.1712201055785063" />
+      <entry key="S60" value="2.8072568200585355" />
+      <entry key="M2" value="5.664028469208468" />
+      <entry key="M5" value="12.521239156872038" />
+      <entry key="M10" value="21.35398909366798" />
+      <entry key="M15" value="28.543303475271266" />
+      <entry key="M30" value="43.57895342476943" />
+      <entry key="H1" value="58.170568700375696" />
+      <entry key="H2" value="68.86956996237629" />
+      <entry key="H4" value="75.43356330209276" />
+      <entry key="D1" value="88.89858674449908" />
+      <entry key="W1" value="175.3564470472694" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0047170906683924275" />
-      <entry key="MS500" value="0.47462426375523864" />
-      <entry key="S2" value="1.7244184417484043" />
-      <entry key="S5" value="3.576500647235204" />
-      <entry key="S10" value="6.222066204594194" />
-      <entry key="S30" value="14.601485207698545" />
-      <entry key="S60" value="21.8822361480534" />
-      <entry key="M2" value="29.017437624995377" />
-      <entry key="M5" value="38.949717450101424" />
-      <entry key="M10" value="45.57121257503461" />
-      <entry key="M15" value="48.51579758688332" />
-      <entry key="M30" value="51.960355210789956" />
-      <entry key="H1" value="54.686721259681306" />
-      <entry key="H2" value="69.65758149828032" />
-      <entry key="H4" value="123.56757293126046" />
-      <entry key="D1" value="373.28967211002043" />
-      <entry key="W1" value="867.3997111696974" />
+      <entry key="MS100" value="0.8526348917679567" />
+      <entry key="MS500" value="0.9686181892266277" />
+      <entry key="S2" value="0.9920645255602366" />
+      <entry key="S5" value="1.0145926662968425" />
+      <entry key="S10" value="1.4286039144483393" />
+      <entry key="S30" value="5.785654193609415" />
+      <entry key="S60" value="12.138352767149598" />
+      <entry key="M2" value="21.834278135188832" />
+      <entry key="M5" value="44.46892439480679" />
+      <entry key="M10" value="77.02855014178616" />
+      <entry key="M15" value="106.7913795150166" />
+      <entry key="M30" value="175.02676086541246" />
+      <entry key="H1" value="245.9554024529719" />
+      <entry key="H2" value="304.55457809989076" />
+      <entry key="H4" value="349.5372140060884" />
+      <entry key="D1" value="452.047862529119" />
+      <entry key="W1" value="1061.3755362573756" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -135,6 +124,7 @@
     "Application.RandomString.executor": "Run",
     "Application.RestaurantSoftWhileTraining.executor": "Run",
     "Application.ScannerInJava.executor": "Run",
+    "Application.SchlangeSpiel.executor": "Run",
     "Application.StringArray.executor": "Run",
     "Application.Test1307.executor": "Run",
     "Application.WhileErsteProgram.executor": "Run",
@@ -142,6 +132,7 @@
     "Application.test2008.executor": "Run",
     "Application.wiederholung.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -162,7 +153,7 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EinfacheRechner">
+  <component name="RunManager" selected="Application.SchlangeSpiel">
     <configuration name="DayChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tag7_RandomKlasse.DayChallenge" />
       <module name="HelloTUM" />
@@ -202,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tag7_RandomKlasse.RandomString" />
+    <configuration name="SchlangeSpiel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag9_ErstesSpiel.SchlangeSpiel" />
       <module name="HelloTUM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tag7_RandomKlasse.*" />
+          <option name="PATTERN" value="Tag9_ErstesSpiel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SchlangeSpiel" />
         <item itemvalue="Application.EinfacheRechner" />
         <item itemvalue="Application.DoubleArrayDurchschnittChalenge" />
         <item itemvalue="Application.StringArray" />
         <item itemvalue="Application.DayChallenge" />
-        <item itemvalue="Application.RandomString" />
       </list>
     </recent_temporary>
   </component>
