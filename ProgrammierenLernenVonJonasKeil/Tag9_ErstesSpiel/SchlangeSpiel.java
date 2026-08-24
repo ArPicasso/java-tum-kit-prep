@@ -10,19 +10,34 @@ public class SchlangeSpiel {
     public static void main(String[] args){
         //Запуск игры и начало действия | Статус: Активно
         boolean SpielStatus = true;
+        boolean IstGold = false;
 
         //Генерация поля и позиций
         Point[] heroes = SpielHeroes();
-        String HauptSpielFeld = SpielFeld(heroes[0], heroes[1], heroes[2], heroes[3]);
+        //Tuer 2 Shlange 3
+        String HauptSpielFeld = SpielFeld(heroes[0], heroes[1], heroes[2], heroes[3], IstGold);
 
 
-        //System.out.println(HauptSpielFeld);
+        System.out.println(HauptSpielFeld);
         while (SpielStatus){
+            //Чтение ввода
             Scanner scan = new Scanner(System.in);
             String input = scan.nextLine();
-            System.out.println(SpielFeld(SpielLogik(input, heroes[0]), heroes[1], heroes[2], heroes[3]));
 
+            //Вывод поля
+            System.out.println(SpielFeld(SpielLogik(input, heroes[0]), heroes[1], heroes[2], heroes[3], IstGold));
+            if (heroes[0].equals(heroes[1])) {
+                IstGold = true;
+                System.out.println("Пользователь собрал монету!");
+            } else if (heroes[0].equals(heroes[2])) {
+                SpielStatus = false;
+                System.out.println("Пользователь нашел дверь!");
+            } else if (heroes[0].equals(heroes[3])) {
+                SpielStatus = false;
+                System.out.println("Пользователь заразился и был укушен змеей!");
+            }
         }
+        System.out.println("Игра окончена!");
     }
 
     private static Point SpielLogik(String input, Point SpielerPoint) {
@@ -72,30 +87,53 @@ public class SchlangeSpiel {
         }
     }
 
-    public static String SpielFeld(Point SpielerPoint, Point GoldPoint, Point TuerPoint, Point SchlangePoint){
+    public static String SpielFeld(Point SpielerPoint, Point GoldPoint, Point TuerPoint, Point SchlangePoint, boolean IstGold){
         //Создания поля 10x5
         String SpielFeld = "";
-        for (int y=0; y<5; y++){
-            for (int x=0; x<10; x++){
-                Point currentPoint = new Point(x,y);
-
-                //Расстановка наших игроков и самого поля
-                if (currentPoint.equals(SpielerPoint)){
-                    SpielFeld += "P";
-                } else if (currentPoint.equals(GoldPoint)){
-                    SpielFeld += "G";
-                } else if (currentPoint.equals(TuerPoint)){
-                    SpielFeld += "T";
-                } else if (currentPoint.equals(SchlangePoint)){
-                    SpielFeld += "S";
-                } else {
-                    SpielFeld += ".";
+        if (IstGold == false){
+            for (int y=0; y<5; y++){
+                for (int x=0; x<10; x++){
+                    Point currentPoint = new Point(x,y);
+                    //Расстановка наших игроков и самого поля
+                    if (currentPoint.equals(SpielerPoint)){
+                        SpielFeld += "P";
+                    } else if (currentPoint.equals(GoldPoint)){
+                        SpielFeld += "G";
+                    } else if (currentPoint.equals(TuerPoint)){
+                        SpielFeld += "T";
+                    } else if (currentPoint.equals(SchlangePoint)){
+                        SpielFeld += "S";
+                    } else {
+                        SpielFeld += ".";
+                    }
                 }
+                SpielFeld += "\n";
             }
-            SpielFeld += "\n";
+        } else {
+            for (int y=0; y<5; y++){
+                for (int x=0; x<10; x++){
+                    Point currentPoint = new Point(x,y);
+
+                    //Расстановка наших игроков и самого поля
+                    if (currentPoint.equals(SpielerPoint)){
+                        SpielFeld += "P";
+                    } else if (currentPoint.equals(GoldPoint)){
+                        SpielFeld += ".";
+                    } else if (currentPoint.equals(TuerPoint)){
+                        SpielFeld += "T";
+                    } else if (currentPoint.equals(SchlangePoint)){
+                        SpielFeld += "S";
+                    } else {
+                        SpielFeld += ".";
+                    }
+                }
+                SpielFeld += "\n";
+            }
         }
-        //System.out.println("Spielfeld ist generiert");
+
         return SpielFeld;
+        //System.out.println("Spielfeld ist generiert");
+
 
     }
 
