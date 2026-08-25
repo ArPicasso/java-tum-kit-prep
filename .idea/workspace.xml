@@ -44,61 +44,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.000000000000002" />
-      <entry key="S60" value="1.000000090504113" />
-      <entry key="M2" value="1.0006319182727739" />
-      <entry key="M5" value="1.1692787383063508" />
-      <entry key="M10" value="3.9238036881078586" />
-      <entry key="M15" value="11.268207255054081" />
-      <entry key="M30" value="47.808144098174346" />
-      <entry key="H1" value="133.17088189269077" />
-      <entry key="H2" value="275.7582403179385" />
-      <entry key="H4" value="442.7820245302324" />
-      <entry key="D1" value="750.6432010395162" />
-      <entry key="W1" value="1326.216718833752" />
+      <entry key="MS100" value="1.0508800615688486E-6" />
+      <entry key="MS500" value="0.07107508771934234" />
+      <entry key="S2" value="0.8186385226332302" />
+      <entry key="S5" value="1.7958303903982311" />
+      <entry key="S10" value="2.915880820218359" />
+      <entry key="S30" value="6.356401102796867" />
+      <entry key="S60" value="11.607517772714173" />
+      <entry key="M2" value="19.724399147352255" />
+      <entry key="M5" value="33.019178816011916" />
+      <entry key="M10" value="43.028560399092996" />
+      <entry key="M15" value="47.88534545786199" />
+      <entry key="M30" value="53.98564857906494" />
+      <entry key="H1" value="57.69466815752898" />
+      <entry key="H2" value="61.693392660404264" />
+      <entry key="H4" value="98.69631143455256" />
+      <entry key="D1" value="582.1932128523465" />
+      <entry key="W1" value="1353.8712520472145" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.4611251365518638E-232" />
-      <entry key="S5" value="2.272236220589317E-93" />
-      <entry key="S10" value="4.766797898578577E-47" />
-      <entry key="S30" value="3.6258423151976217E-16" />
-      <entry key="S60" value="1.9041644666756356E-8" />
-      <entry key="M2" value="1.3799423189457934E-4" />
-      <entry key="M5" value="0.029458001514343937" />
-      <entry key="M10" value="0.2620225710317757" />
-      <entry key="M15" value="0.8416078748146607" />
-      <entry key="M30" value="4.664112358457477" />
-      <entry key="H1" value="16.838713248806727" />
-      <entry key="H2" value="42.094351105733246" />
-      <entry key="H4" value="74.1091783122358" />
-      <entry key="D1" value="132.34353054247939" />
-      <entry key="W1" value="229.55224476085704" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000081471318805" />
+      <entry key="S5" value="1.0199721055264528" />
+      <entry key="S10" value="1.3010771795625506" />
+      <entry key="S30" value="3.5529717989469485" />
+      <entry key="S60" value="6.752631340973751" />
+      <entry key="M2" value="10.784577648986195" />
+      <entry key="M5" value="16.28645145258195" />
+      <entry key="M10" value="20.003790568320262" />
+      <entry key="M15" value="21.81910132687334" />
+      <entry key="M30" value="24.258751806808814" />
+      <entry key="H1" value="25.89390122041912" />
+      <entry key="H2" value="27.122653305694786" />
+      <entry key="H4" value="33.113981101003674" />
+      <entry key="D1" value="114.19825090976218" />
+      <entry key="W1" value="243.9355253135885" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.41179550863378656" />
-      <entry key="MS500" value="0.8374064875084266" />
-      <entry key="S2" value="0.9566081580918743" />
-      <entry key="S5" value="0.982411939933184" />
-      <entry key="S10" value="0.9911669586569076" />
-      <entry key="S30" value="0.9970469409117674" />
-      <entry key="S60" value="0.9985224871685051" />
-      <entry key="M2" value="1.0000266452765627" />
-      <entry key="M5" value="1.1980670712905184" />
-      <entry key="M10" value="4.184250209235844" />
-      <entry key="M15" value="12.107078352043175" />
-      <entry key="M30" value="52.46472532441509" />
-      <entry key="H1" value="149.99450120029786" />
-      <entry key="H2" value="317.833386086967" />
-      <entry key="H4" value="516.8744738144054" />
-      <entry key="D1" value="882.981792621936" />
-      <entry key="W1" value="1555.7676164737795" />
+      <entry key="MS100" value="8.954539712666628E-5" />
+      <entry key="MS500" value="0.2220542878796933" />
+      <entry key="S2" value="1.4323999709439135" />
+      <entry key="S5" value="2.6190774394407117" />
+      <entry key="S10" value="4.082928903789393" />
+      <entry key="S30" value="9.789838396658629" />
+      <entry key="S60" value="18.229335278707325" />
+      <entry key="M2" value="30.38862258821873" />
+      <entry key="M5" value="49.22205039762833" />
+      <entry key="M10" value="62.97748988056359" />
+      <entry key="M15" value="69.66359969437437" />
+      <entry key="M30" value="78.22119439109444" />
+      <entry key="H1" value="83.57607538158362" />
+      <entry key="H2" value="88.80942657440293" />
+      <entry key="H4" value="131.80568119522323" />
+      <entry key="D1" value="696.3876761469824" />
+      <entry key="W1" value="1597.8054286261354" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -124,7 +124,7 @@
     "Application.RandomString.executor": "Run",
     "Application.RestaurantSoftWhileTraining.executor": "Run",
     "Application.ScannerInJava.executor": "Run",
-    "Application.SchlangeSpiel.executor": "Run",
+    "Application.SchlangeSpiel.executor": "Profiler#1",
     "Application.StringArray.executor": "Run",
     "Application.Test1307.executor": "Run",
     "Application.WhileErsteProgram.executor": "Run",
@@ -153,20 +153,7 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SchlangeSpiel">
-    <configuration name="DayChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tag7_RandomKlasse.DayChallenge" />
-      <module name="HelloTUM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tag7_RandomKlasse.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DoubleArrayDurchschnittChalenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tag6_Arrays.DoubleArrayDurchschnittChalenge" />
       <module name="HelloTUM" />
@@ -186,6 +173,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Tag8_Methoden.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag10_KlassenObjekte.Main" />
+      <module name="HelloTUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tag10_KlassenObjekte.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.SchlangeSpiel" />
         <item itemvalue="Application.EinfacheRechner" />
         <item itemvalue="Application.DoubleArrayDurchschnittChalenge" />
         <item itemvalue="Application.StringArray" />
-        <item itemvalue="Application.DayChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -269,5 +269,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HelloTUM$SchlangeSpiel.ic" NAME="SchlangeSpiel Coverage Results" MODIFIED="1787650587973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Tag9_ErstesSpiel.*</FILTER>
+    </SUITE>
   </component>
 </project>

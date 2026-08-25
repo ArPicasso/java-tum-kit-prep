@@ -17,15 +17,18 @@ public class SchlangeSpiel {
         //Tuer 2 Shlange 3
         String HauptSpielFeld = SpielFeld(heroes[0], heroes[1], heroes[2], heroes[3], IstGold);
 
-
+        clearScreen();
         System.out.println(HauptSpielFeld);
+
+        Scanner scan = new Scanner(System.in);
         while (SpielStatus){
             //Чтение ввода
-            Scanner scan = new Scanner(System.in);
             String input = scan.nextLine();
 
+            clearScreen();
             //Вывод поля
             System.out.println(SpielFeld(SpielLogik(input, heroes[0]), heroes[1], heroes[2], heroes[3], IstGold));
+
 
             if (heroes[0].equals(heroes[1])) {
                 IstGold = true;
@@ -71,6 +74,10 @@ public class SchlangeSpiel {
         }
 
         return SpielerPoint;
+    }
+    public static void clearScreen() {
+        System.out.print("\033[H\033[2J");
+        System.out.flush();
     }
 
     private static Point[] SpielHeroes() {
