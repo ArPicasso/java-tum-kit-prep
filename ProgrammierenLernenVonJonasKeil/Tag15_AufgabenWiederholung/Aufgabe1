@@ -1,0 +1,18 @@
+Aufgabe 1: Mensa-Rechner
+Schreibe ein Programm MensaRechner, das den Preis einer Bestellung in der Mensa berechnet.
+Der Benutzer gibt ein:
+1. Status: student, staff oder guest
+2. Anzahl der Gerichte
+3. Preis pro Gericht
+4. Getränk gewünscht: true/false
+Regeln:
+- student bekommt 30% Rabatt
+- staff bekommt 10% Rabatt
+- guest bezahlt den vollen Preis
+- ein Getränk kostet 1.50
+- wenn der Gesamtpreis größer als 20 ist, gibt es zusätzlich 2 Euro Rabatt
+- das Programm gibt den finalen Preis aus
+Zusätzlich:
+- benutze Scanner
+- benutze if/else
+- lagere die Preisberechnung in eine eigene Methode aus, die double zurückgibt
