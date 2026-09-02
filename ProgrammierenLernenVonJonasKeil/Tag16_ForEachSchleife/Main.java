@@ -1,4 +1,4 @@
-package Tag15_ForEachSchleife;
+package Tag16_ForEachSchleife;
 import java.util.Arrays;
 
 public class Main {

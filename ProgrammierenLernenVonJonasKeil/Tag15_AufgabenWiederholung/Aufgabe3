@@ -1,0 +1,20 @@
+Aufgabe 3: Klasse Student
+Erstelle eine Klasse Student.
+Felder:
+String name;
+int age;
+int matrikelnummer;
+double averageGrade;
+Füge hinzu:
+1. einen Konstruktor für alle Felder
+2. eine Methode printInfo()
+3. eine Methode hasPassed(), die true zurückgibt, wenn averageGrade <= 4.0
+4. einen überladenen Konstruktor, bei dem averageGrade automatisch 5.0 ist
+In Main erstellst du mindestens 3 Studierende und gibst die Informationen aus.
+Beispiel:
+Name: Anna
+Alter: 20
+Matrikelnummer: 123456
+Durchschnittsnote: 2.3
+Bestanden: ja
+Ich würde mit Aufgabe 2 anfangen. Sie wiederholt Arrays, Schleifen, Random und Methoden auf einmal.

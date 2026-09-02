@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c653118-260e-4439-aa9e-6cd83d8933af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_AufgabenWiederholung/Aufgabe1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_AufgabenWiederholung/Aufgabe1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_AufgabenWiederholung/Aufgabe2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_AufgabenWiederholung/Aufgabe2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_AufgabenWiederholung/Aufgabe3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_AufgabenWiederholung/Aufgabe3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_AufgabenWiederholung/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag17_BreakContinue/MainBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag18_SwitchCase/MainSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag18_SwitchCase/challengeSwitch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_AufgabenWiederholung/Aufgabe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_AufgabenWiederholung/Aufgabe2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_ForEachSchleife/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag16_ForEachSchleife/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,61 +51,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="3.1957790364227306E-44" />
-      <entry key="MS500" value="3.793446551694344E-9" />
-      <entry key="S2" value="0.019326923815891902" />
-      <entry key="S5" value="0.507435738333481" />
-      <entry key="S10" value="1.583281007599861" />
-      <entry key="S30" value="3.894111772790517" />
-      <entry key="S60" value="6.427572259913323" />
-      <entry key="M2" value="11.565401265756297" />
-      <entry key="M5" value="21.434712679863953" />
-      <entry key="M10" value="30.93864186822812" />
-      <entry key="M15" value="37.731151223036015" />
-      <entry key="M30" value="49.66288914863052" />
-      <entry key="H1" value="61.25892940402727" />
-      <entry key="H2" value="74.1262765232459" />
-      <entry key="H4" value="101.36362959707427" />
-      <entry key="D1" value="644.9914391846496" />
-      <entry key="W1" value="1968.1207208809788" />
+      <entry key="MS100" value="7.198580162554204E-4" />
+      <entry key="MS500" value="0.2352065268784469" />
+      <entry key="S2" value="0.6964057416188277" />
+      <entry key="S5" value="0.8656768558889618" />
+      <entry key="S10" value="0.9591755155010611" />
+      <entry key="S30" value="1.4757892067111105" />
+      <entry key="S60" value="2.292754410970058" />
+      <entry key="M2" value="5.207063283106938" />
+      <entry key="M5" value="19.169556103332148" />
+      <entry key="M10" value="36.368816239260866" />
+      <entry key="M15" value="46.80179610150441" />
+      <entry key="M30" value="66.90065992303475" />
+      <entry key="H1" value="95.70745277950942" />
+      <entry key="H2" value="136.08957631757642" />
+      <entry key="H4" value="179.30968615120457" />
+      <entry key="D1" value="398.5231224578505" />
+      <entry key="W1" value="1888.388434671669" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.000008128947494" />
-      <entry key="S5" value="1.009206703713537" />
-      <entry key="S10" value="1.0986914018126792" />
-      <entry key="S30" value="1.9154819870285156" />
-      <entry key="S60" value="3.5888855258754067" />
-      <entry key="M2" value="6.189439260518564" />
-      <entry key="M5" value="9.877751865803017" />
-      <entry key="M10" value="13.285313127876679" />
-      <entry key="M15" value="15.977566558775328" />
-      <entry key="M30" value="21.075927281227617" />
-      <entry key="H1" value="26.06456662138857" />
-      <entry key="H2" value="31.20657947349897" />
-      <entry key="H4" value="40.699743405020456" />
-      <entry key="D1" value="176.77544341279597" />
-      <entry key="W1" value="430.94078152518784" />
+      <entry key="S2" value="1.0000000000929985" />
+      <entry key="S5" value="1.0000971383159067" />
+      <entry key="S10" value="1.009855934949267" />
+      <entry key="S30" value="1.219829157610032" />
+      <entry key="S60" value="1.598924891571972" />
+      <entry key="M2" value="2.616288770684938" />
+      <entry key="M5" value="6.035174482444189" />
+      <entry key="M10" value="9.946535219159298" />
+      <entry key="M15" value="12.432842334583011" />
+      <entry key="M30" value="17.917768942579972" />
+      <entry key="H1" value="27.33415294598784" />
+      <entry key="H2" value="42.681579968493196" />
+      <entry key="H4" value="60.339706407918456" />
+      <entry key="D1" value="127.19111563225177" />
+      <entry key="W1" value="446.31024678599255" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.006434304822402915" />
-      <entry key="MS500" value="0.36450234764684336" />
-      <entry key="S2" value="0.7944933160901986" />
-      <entry key="S5" value="1.3999039344126993" />
-      <entry key="S10" value="2.596659830038741" />
-      <entry key="S30" value="5.7459561933822725" />
-      <entry key="S60" value="9.951297384505033" />
-      <entry key="M2" value="17.692364987542042" />
-      <entry key="M5" value="31.26788845242917" />
-      <entry key="M10" value="44.190287840407244" />
-      <entry key="M15" value="53.679770786549675" />
-      <entry key="M30" value="70.71808648104496" />
-      <entry key="H1" value="87.30996545971489" />
-      <entry key="H2" value="105.32435019117432" />
-      <entry key="H4" value="142.05729820258367" />
-      <entry key="D1" value="821.7610827595686" />
-      <entry key="W1" value="2399.059285637552" />
+      <entry key="MS100" value="0.02858775039779377" />
+      <entry key="MS500" value="0.6160697976316957" />
+      <entry key="S2" value="1.4317198734724528" />
+      <entry key="S5" value="1.7440792933197384" />
+      <entry key="S10" value="1.9033333540955475" />
+      <entry key="S30" value="2.661430863571678" />
+      <entry key="S60" value="3.8648329861862485" />
+      <entry key="M2" value="7.7960675309883705" />
+      <entry key="M5" value="25.16898782718866" />
+      <entry key="M10" value="46.281189359693094" />
+      <entry key="M15" value="59.204910491528665" />
+      <entry key="M30" value="84.79637927714148" />
+      <entry key="H1" value="123.02472903001977" />
+      <entry key="H2" value="178.757971791642" />
+      <entry key="H4" value="239.6400522334995" />
+      <entry key="D1" value="525.710691755185" />
+      <entry key="W1" value="2334.696535843722" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -118,12 +122,15 @@
     "Application.ArraysRussianKurs.executor": "Run",
     "Application.Aufgabe1.executor": "Run",
     "Application.Aufgabe2.executor": "Run",
+    "Application.Aufgabe3.executor": "Run",
     "Application.DayChallenge.executor": "Run",
     "Application.DoubleArrayDurchschnittChalenge.executor": "Run",
     "Application.EinfacheRechner.executor": "Run",
     "Application.ForSchleife.executor": "Run",
     "Application.KlugesLaden.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainBreak.executor": "Run",
+    "Application.MainSwitch.executor": "Run",
     "Application.MeineEigeneKlasse.executor": "Run",
     "Application.Random2108.executor": "Run",
     "Application.RandomString.executor": "Run",
@@ -138,6 +145,7 @@
     "Application.Test1307.executor": "Run",
     "Application.WhileErsteProgram.executor": "Run",
     "Application.WhileSchleife.executor": "Run",
+    "Application.challengeSwitch.executor": "Run",
     "Application.main.executor": "Run",
     "Application.test2008.executor": "Run",
     "Application.wiederholung.executor": "Run",
@@ -163,20 +171,7 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aufgabe2">
-    <configuration name="Aufgabe1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tag15_AufgabenWiederholung.Aufgabe1" />
-      <module name="HelloTUM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tag15_AufgabenWiederholung.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.challengeSwitch">
     <configuration name="Aufgabe2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tag15_AufgabenWiederholung.Aufgabe2" />
       <module name="HelloTUM" />
@@ -190,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tag12_RückgabeWerte.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tag12_RückgabeWerte.Main" />
+    <configuration name="Aufgabe3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag15_AufgabenWiederholung.Aufgabe3" />
       <module name="HelloTUM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tag12_RückgabeWerte.*" />
+          <option name="PATTERN" value="Tag15_AufgabenWiederholung.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tag15_ForEachSchleife.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tag15_ForEachSchleife.Main" />
+    <configuration name="MainBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag17_BreakContinue.MainBreak" />
       <module name="HelloTUM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tag15_ForEachSchleife.*" />
+          <option name="PATTERN" value="Tag17_BreakContinue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +211,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tag13_Uberladung.main" />
+    <configuration name="MainSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag18_SwitchCase.MainSwitch" />
       <module name="HelloTUM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tag13_Uberladung.*" />
+          <option name="PATTERN" value="Tag18_SwitchCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="challengeSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag18_SwitchCase.challengeSwitch" />
+      <module name="HelloTUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tag18_SwitchCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.challengeSwitch" />
+        <item itemvalue="Application.MainSwitch" />
+        <item itemvalue="Application.MainBreak" />
+        <item itemvalue="Application.Aufgabe3" />
         <item itemvalue="Application.Aufgabe2" />
-        <item itemvalue="Application.Aufgabe1" />
-        <item itemvalue="Application.Tag15_ForEachSchleife.Main" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.Tag12_RückgabeWerte.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -281,6 +289,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag17_BreakContinue/MainBreak.java</url>
+          <line>3</line>
+          <properties class="Tag17_BreakContinue.MainBreak" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />

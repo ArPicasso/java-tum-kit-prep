@@ -45,4 +45,5 @@ public class Aufgabe2 {
     public static double calculateAverage(int s,int [] array){
         return (double) s / array.length;
     }
+
 }
