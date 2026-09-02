@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c653118-260e-4439-aa9e-6cd83d8933af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_AufgabenWiederholung/Aufgabe3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_AufgabenWiederholung/Aufgabe3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_AufgabenWiederholung/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag17_BreakContinue/MainBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag18_SwitchCase/MainSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag18_SwitchCase/challengeSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag19_KonditionelleOperatoren/MainCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag20_PrintF/MainPrintF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag21_DoubleArrays/MainEinmaleins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag21_DoubleArrays/TicTacToe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_AufgabenWiederholung/Aufgabe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_AufgabenWiederholung/Aufgabe2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag15_ForEachSchleife/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag16_ForEachSchleife/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,61 +47,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="7.198580162554204E-4" />
-      <entry key="MS500" value="0.2352065268784469" />
-      <entry key="S2" value="0.6964057416188277" />
-      <entry key="S5" value="0.8656768558889618" />
-      <entry key="S10" value="0.9591755155010611" />
-      <entry key="S30" value="1.4757892067111105" />
-      <entry key="S60" value="2.292754410970058" />
-      <entry key="M2" value="5.207063283106938" />
-      <entry key="M5" value="19.169556103332148" />
-      <entry key="M10" value="36.368816239260866" />
-      <entry key="M15" value="46.80179610150441" />
-      <entry key="M30" value="66.90065992303475" />
-      <entry key="H1" value="95.70745277950942" />
-      <entry key="H2" value="136.08957631757642" />
-      <entry key="H4" value="179.30968615120457" />
-      <entry key="D1" value="398.5231224578505" />
-      <entry key="W1" value="1888.388434671669" />
+      <entry key="MS100" value="3.9257071557526045E-5" />
+      <entry key="MS500" value="0.23715916833989165" />
+      <entry key="S2" value="1.4671922189390845" />
+      <entry key="S5" value="2.3604848279695605" />
+      <entry key="S10" value="3.4762960504410807" />
+      <entry key="S30" value="7.453892175324007" />
+      <entry key="S60" value="11.043698985769433" />
+      <entry key="M2" value="15.19024127244596" />
+      <entry key="M5" value="24.819449964060137" />
+      <entry key="M10" value="39.51813747406539" />
+      <entry key="M15" value="54.55366483299198" />
+      <entry key="M30" value="98.11348128455873" />
+      <entry key="H1" value="159.84979142911484" />
+      <entry key="H2" value="222.99235396397773" />
+      <entry key="H4" value="273.60821756318774" />
+      <entry key="D1" value="428.2790680408345" />
+      <entry key="W1" value="1883.7236997469456" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000000929985" />
-      <entry key="S5" value="1.0000971383159067" />
-      <entry key="S10" value="1.009855934949267" />
-      <entry key="S30" value="1.219829157610032" />
-      <entry key="S60" value="1.598924891571972" />
-      <entry key="M2" value="2.616288770684938" />
-      <entry key="M5" value="6.035174482444189" />
-      <entry key="M10" value="9.946535219159298" />
-      <entry key="M15" value="12.432842334583011" />
-      <entry key="M30" value="17.917768942579972" />
-      <entry key="H1" value="27.33415294598784" />
-      <entry key="H2" value="42.681579968493196" />
-      <entry key="H4" value="60.339706407918456" />
-      <entry key="D1" value="127.19111563225177" />
-      <entry key="W1" value="446.31024678599255" />
+      <entry key="MS100" value="1.000000000001551" />
+      <entry key="MS500" value="1.004570322707927" />
+      <entry key="S2" value="1.379104141694976" />
+      <entry key="S5" value="2.013829452894716" />
+      <entry key="S10" value="2.4876970671764225" />
+      <entry key="S30" value="3.768665640858342" />
+      <entry key="S60" value="4.886540236048199" />
+      <entry key="M2" value="6.21786346087515" />
+      <entry key="M5" value="10.246414411255643" />
+      <entry key="M10" value="16.783047388720284" />
+      <entry key="M15" value="23.22983720218318" />
+      <entry key="M30" value="40.85539775359731" />
+      <entry key="H1" value="63.524461139065544" />
+      <entry key="H2" value="83.81374895379223" />
+      <entry key="H4" value="97.95937949830518" />
+      <entry key="D1" value="142.7528280243612" />
+      <entry key="W1" value="478.7614758372497" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.02858775039779377" />
-      <entry key="MS500" value="0.6160697976316957" />
-      <entry key="S2" value="1.4317198734724528" />
-      <entry key="S5" value="1.7440792933197384" />
-      <entry key="S10" value="1.9033333540955475" />
-      <entry key="S30" value="2.661430863571678" />
-      <entry key="S60" value="3.8648329861862485" />
-      <entry key="M2" value="7.7960675309883705" />
-      <entry key="M5" value="25.16898782718866" />
-      <entry key="M10" value="46.281189359693094" />
-      <entry key="M15" value="59.204910491528665" />
-      <entry key="M30" value="84.79637927714148" />
-      <entry key="H1" value="123.02472903001977" />
-      <entry key="H2" value="178.757971791642" />
-      <entry key="H4" value="239.6400522334995" />
-      <entry key="D1" value="525.710691755185" />
-      <entry key="W1" value="2334.696535843722" />
+      <entry key="MS100" value="0.0034234369328738795" />
+      <entry key="MS500" value="0.5280130850263586" />
+      <entry key="S2" value="2.442682616023198" />
+      <entry key="S5" value="4.093938168711141" />
+      <entry key="S10" value="5.714152923034626" />
+      <entry key="S30" value="11.006006597728208" />
+      <entry key="S60" value="15.775786210278415" />
+      <entry key="M2" value="21.30784758801167" />
+      <entry key="M5" value="35.000844247661995" />
+      <entry key="M10" value="56.24538903951578" />
+      <entry key="M15" value="77.72845848575521" />
+      <entry key="M30" value="138.91559006335444" />
+      <entry key="H1" value="223.33069404256045" />
+      <entry key="H2" value="306.7765717743765" />
+      <entry key="H4" value="371.55006683893146" />
+      <entry key="D1" value="571.0276465582492" />
+      <entry key="W1" value="2362.482928365531" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -130,6 +126,8 @@
     "Application.KlugesLaden.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainBreak.executor": "Run",
+    "Application.MainCondition.executor": "Run",
+    "Application.MainEinmaleins.executor": "Run",
     "Application.MainSwitch.executor": "Run",
     "Application.MeineEigeneKlasse.executor": "Run",
     "Application.Random2108.executor": "Run",
@@ -143,6 +141,7 @@
     "Application.Tag12_RückgabeWerte.Main.executor": "Run",
     "Application.Tag15_ForEachSchleife.Main.executor": "Run",
     "Application.Test1307.executor": "Run",
+    "Application.TicTacToe.executor": "Run",
     "Application.WhileErsteProgram.executor": "Run",
     "Application.WhileSchleife.executor": "Run",
     "Application.challengeSwitch.executor": "Run",
@@ -171,13 +170,13 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.challengeSwitch">
-    <configuration name="Aufgabe2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tag15_AufgabenWiederholung.Aufgabe2" />
+  <component name="RunManager" selected="Application.TicTacToe">
+    <configuration name="MainCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag19_KonditionelleOperatoren.MainCondition" />
       <module name="HelloTUM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tag15_AufgabenWiederholung.*" />
+          <option name="PATTERN" value="Tag19_KonditionelleOperatoren.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,25 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aufgabe3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tag15_AufgabenWiederholung.Aufgabe3" />
+    <configuration name="MainEinmaleins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag21_DoubleArrays.MainEinmaleins" />
       <module name="HelloTUM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tag15_AufgabenWiederholung.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tag17_BreakContinue.MainBreak" />
-      <module name="HelloTUM" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tag17_BreakContinue.*" />
+          <option name="PATTERN" value="Tag21_DoubleArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,6 +203,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Tag18_SwitchCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag21_DoubleArrays.TicTacToe" />
+      <module name="HelloTUM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tag21_DoubleArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.MainEinmaleins" />
+        <item itemvalue="Application.MainCondition" />
         <item itemvalue="Application.challengeSwitch" />
         <item itemvalue="Application.MainSwitch" />
-        <item itemvalue="Application.MainBreak" />
-        <item itemvalue="Application.Aufgabe3" />
-        <item itemvalue="Application.Aufgabe2" />
       </list>
     </recent_temporary>
   </component>
@@ -280,6 +279,11 @@
           <url>file://$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag11_Konstruktor/Main.java</url>
           <line>2</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag19_KonditionelleOperatoren/MainCondition.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag7_RandomKlasse/RandomZahl.java</url>
