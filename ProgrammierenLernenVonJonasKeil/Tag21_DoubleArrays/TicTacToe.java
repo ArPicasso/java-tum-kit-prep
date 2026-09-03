@@ -75,47 +75,59 @@ public class TicTacToe {
         //drawBoard(matrix);
         Scanner scan = new Scanner(System.in);
         int[] array = new int[2];
-        //System.out.println("Enter the number  to choose the string (1 , 2 , 3)");
+        System.out.println("Enter the number  to choose the row (1 , 2 , 3)");
         array[0] = scan.nextInt();
-        array[0]--;
+        if ( array[0] <= 3 && array[0] >= 1){
+            array[0]--;
 
-        //for (int j = 0; j < matrix.length; j++) {
-            //if (matrix[array[0]][j].equals("\u25FB")){
-                //matrix[array[0]][j] = "\uD83D\uDFE9";
-            //}
+            for (int j = 0; j < matrix.length; j++) {
+                if (matrix[array[0]][j].equals("\u25FB")){
+                    matrix[array[0]][j] = "\uD83D\uDFE9";
+                }
 
-        //}
-        //drawBoard(matrix);
-
-        //for (int j = 0; j < matrix[array[0]].length; j++) {
-            //if (!(matrix[array[0]][j].equals("x") || (matrix[array[0]][j].equals("o")))){
-                //matrix[array[0]][j] = "\u25FB";
-           // }
-
-        //}
-
-        System.out.println("Enter the number to choose the row (1 , 2 , 3)");
-
-        array[1] = scan.nextInt();
-        array[1]--;
-
-
-
-
-        //System.out.println(array.equals("\uD83D\uDFE9"));
-        //System.out.println(Arrays.toString(array) + matrix[0][0]);
-        //System.out.println(array[0] + " " + array[1]);
-        //System.out.println(matrix[array[0]][array[1]] + "\uD83D\uDFE9");
-        if (matrix[array[0]][array[1]].equals("\u25FB")){
-            //drawBoard(matrix);
-            System.out.println("U was right!");
-
-            return array;
-        } else {
+            }
             drawBoard(matrix);
-            System.out.println("Place is not free!\nRepeat ur attempt. U can start with a string" );
+
+            for (int j = 0; j < matrix[array[0]].length; j++) {
+                if (matrix[array[0]][j].equals("\uD83D\uDFE9") ){
+                    matrix[array[0]][j] = "\u25FB";
+                }
+
+            }
+
+            System.out.println("Enter the number to choose the column (1 , 2 , 3)");
+
+            array[1] = scan.nextInt();
+            if ( array[1] <= 3 && array[1] >= 1){
+                array[1]--;
+
+
+
+
+                //System.out.println(array.equals("\uD83D\uDFE9"));
+                //System.out.println(Arrays.toString(array) + matrix[0][0]);
+                //System.out.println(array[0] + " " + array[1]);
+                //System.out.println(matrix[array[0]][array[1]] + "\uD83D\uDFE9");
+                if (matrix[array[0]][array[1]].equals("\u25FB")){
+                    //drawBoard(matrix);
+                    System.out.println("U was right!");
+
+                    return array;
+                } else {
+                    drawBoard(matrix);
+                    System.out.println("Place is not free!\nRepeat ur attempt. U can start with a row" );
+                    return choosePick(matrix);
+                }
+            } else{
+                System.out.println("UUUUUppps... U did a mistake. Strart with the input again.");
+                return choosePick(matrix);
+            }
+
+        } else {
             return choosePick(matrix);
         }
+
+
 
     }
 
