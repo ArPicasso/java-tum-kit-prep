@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c653118-260e-4439-aa9e-6cd83d8933af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/ClaudeKurs/Aufgabe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/ClaudeKurs/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag22_FileReading/1mb-examplefile-com.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag22_FileReading/TextReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag22_FileReading/sample1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag21_DoubleArrays/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag21_DoubleArrays/TicTacToe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,61 +53,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000023394517" />
-      <entry key="MS500" value="1.032693617621009" />
-      <entry key="S2" value="1.715121137638938" />
-      <entry key="S5" value="2.3254677132668844" />
-      <entry key="S10" value="2.6281700404974373" />
-      <entry key="S30" value="2.912354736483521" />
-      <entry key="S60" value="3.6147995137412616" />
-      <entry key="M2" value="5.6810306633555" />
-      <entry key="M5" value="9.257054963193907" />
-      <entry key="M10" value="11.29501720795895" />
-      <entry key="M15" value="12.112897774592144" />
-      <entry key="M30" value="13.012232341506028" />
-      <entry key="H1" value="13.80297116140306" />
-      <entry key="H2" value="24.197849026878302" />
-      <entry key="H4" value="87.21116194126492" />
-      <entry key="D1" value="534.528471154892" />
-      <entry key="W1" value="2101.990291383494" />
+      <entry key="MS100" value="4.997509428384181E-11" />
+      <entry key="MS500" value="0.009230190801591322" />
+      <entry key="S2" value="0.6875403263793842" />
+      <entry key="S5" value="2.226726959252948" />
+      <entry key="S10" value="3.8835088741487866" />
+      <entry key="S30" value="7.834131019677912" />
+      <entry key="S60" value="11.40175171255576" />
+      <entry key="M2" value="16.50354639761471" />
+      <entry key="M5" value="23.483322713672013" />
+      <entry key="M10" value="27.195211645637" />
+      <entry key="M15" value="28.65929646185431" />
+      <entry key="M30" value="30.256338505922336" />
+      <entry key="H1" value="31.108950888949973" />
+      <entry key="H2" value="31.598811292060923" />
+      <entry key="H4" value="35.42153433470795" />
+      <entry key="D1" value="360.09693109275827" />
+      <entry key="W1" value="2036.9767939022358" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="8.945281551925382E-291" />
-      <entry key="MS500" value="1.1049176086245463E-58" />
-      <entry key="S2" value="5.7926627151578495E-15" />
-      <entry key="S5" value="4.196260973817266E-6" />
-      <entry key="S10" value="0.004015173290006725" />
-      <entry key="S30" value="0.4086303784781883" />
-      <entry key="S60" value="1.3622192887638038" />
-      <entry key="M2" value="2.5631023506075166" />
-      <entry key="M5" value="3.806877482456172" />
-      <entry key="M10" value="4.358559527931522" />
-      <entry key="M15" value="4.561638312098501" />
-      <entry key="M30" value="4.775329062341406" />
-      <entry key="H1" value="4.9677195624584725" />
-      <entry key="H2" value="7.9308331827166745" />
-      <entry key="H4" value="26.615837311474053" />
-      <entry key="D1" value="161.90011063047297" />
-      <entry key="W1" value="539.002021202706" />
+      <entry key="MS100" value="1.0000008836632366" />
+      <entry key="MS500" value="1.061554152680972" />
+      <entry key="S2" value="1.4980974740665272" />
+      <entry key="S5" value="1.7567034888228314" />
+      <entry key="S10" value="1.8699437394823188" />
+      <entry key="S30" value="2.06036553642138" />
+      <entry key="S60" value="2.7428558488001444" />
+      <entry key="M2" value="4.107793489311261" />
+      <entry key="M5" value="5.94094233083614" />
+      <entry key="M10" value="6.860802427240844" />
+      <entry key="M15" value="7.213748050479233" />
+      <entry key="M30" value="7.592818620114074" />
+      <entry key="H1" value="7.792768853575991" />
+      <entry key="H2" value="7.904441439274672" />
+      <entry key="H4" value="8.733606530668247" />
+      <entry key="D1" value="98.51999531720718" />
+      <entry key="W1" value="510.842205458676" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.1952842641540667E-7" />
-      <entry key="MS500" value="0.08239996674172528" />
-      <entry key="S2" value="1.175486946490764" />
-      <entry key="S5" value="2.05629371266735" />
-      <entry key="S10" value="2.4863180905524476" />
-      <entry key="S30" value="3.2612987058030427" />
-      <entry key="S60" value="4.933368596765768" />
-      <entry key="M2" value="8.208254735131744" />
-      <entry key="M5" value="13.040549253388866" />
-      <entry key="M10" value="15.63930882057975" />
-      <entry key="M15" value="16.66433072644187" />
-      <entry key="M30" value="17.782075975957824" />
-      <entry key="H1" value="18.767794610153242" />
-      <entry key="H2" value="32.12629819865553" />
-      <entry key="H4" value="113.82277282258518" />
-      <entry key="D1" value="696.4240481455497" />
-      <entry key="W1" value="2640.9898735003526" />
+      <entry key="MS100" value="0.009162782538776192" />
+      <entry key="MS500" value="0.42090008376312404" />
+      <entry key="S2" value="1.8024525158271518" />
+      <entry key="S5" value="3.742308163452126" />
+      <entry key="S10" value="5.589964038235611" />
+      <entry key="S30" value="9.793492494988225" />
+      <entry key="S60" value="14.062467225284736" />
+      <entry key="M2" value="20.54350031559859" />
+      <entry key="M5" value="29.381877630977666" />
+      <entry key="M10" value="34.03073030683617" />
+      <entry key="M15" value="35.85511120436247" />
+      <entry key="M30" value="37.839602352248086" />
+      <entry key="H1" value="38.8967852812738" />
+      <entry key="H2" value="39.50074143092707" />
+      <entry key="H4" value="44.15373586471945" />
+      <entry key="D1" value="458.6141236535336" />
+      <entry key="W1" value="2547.816686451601" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -138,6 +147,7 @@
     "Application.Tag12_RückgabeWerte.Main.executor": "Run",
     "Application.Tag15_ForEachSchleife.Main.executor": "Run",
     "Application.Test1307.executor": "Run",
+    "Application.TextReader.executor": "Run",
     "Application.TicTacToe.executor": "Run",
     "Application.WhileErsteProgram.executor": "Run",
     "Application.WhileSchleife.executor": "Run",
@@ -163,10 +173,18 @@
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/steve/IdeaProjects/HelloTUM/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/steve/IdeaProjects/HelloTUM/Claude/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag22_FileReading" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.TicTacToe">
     <configuration name="MainCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tag19_KonditionelleOperatoren.MainCondition" />
@@ -194,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tag18_SwitchCase.MainSwitch" />
+    <configuration name="TextReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tag22_FileReading.TextReader" />
       <module name="HelloTUM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tag18_SwitchCase.*" />
+          <option name="PATTERN" value="Tag22_FileReading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,10 +254,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.TextReader" />
         <item itemvalue="Application.MainEinmaleins" />
         <item itemvalue="Application.MainCondition" />
         <item itemvalue="Application.challengeSwitch" />
-        <item itemvalue="Application.MainSwitch" />
       </list>
     </recent_temporary>
   </component>
@@ -281,6 +299,16 @@
           <url>file://$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag19_KonditionelleOperatoren/MainCondition.java</url>
           <line>2</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/KurseClaude/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Claude/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/ProgrammierenLernenVonJonasKeil/Tag7_RandomKlasse/RandomZahl.java</url>
