@@ -18,6 +18,7 @@ This is a learning log, not a finished product. Folder and class names are in Ge
 | `Tag23_Ueberschreibung` | Inheritance and method overriding |
 | `ClaudeKurs/` | Extra exercises I asked Claude to set for me, for example a small warehouse model |
 | `Projects/` | Empty Maven project skeleton |
+| `trainer/` | Artemis-style practice tasks for EidI: task text, code skeleton and JUnit tests per task (see `trainer/README.md`) |
 
 ## How to run
 
