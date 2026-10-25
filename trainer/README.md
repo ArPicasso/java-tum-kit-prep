@@ -3,6 +3,11 @@
 Übungsaufgaben im Stil von Artemis für *Einführung in die Informatik* (TUM, Java).
 Jede Aufgabe ist ein eigenes Maven-Modul mit Aufgabenstellung, Code-Gerüst und sichtbaren JUnit-Tests.
 
+**Fang mit den [Katas](katas/README.md) an:** kleine Aufgaben mit je einer Methode (5–10 Minuten) und XP.
+Die größeren Projekte unten kommen später, wenn die Vorlesung beim jeweiligen Thema angekommen ist.
+
+### Projekte (später)
+
 | Aufgabe | Thema | Folien (PDF-Seiten) |
 |:--|:--|:--|
 | [a01-palindrom](a01-palindrom/AUFGABE.md) | Schleifen über Felder, Palindrome, Feld umdrehen | 250–283 |

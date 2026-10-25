@@ -1,0 +1,32 @@
+# Katas
+
+Kleine Aufgaben: **eine Kata = eine Methode = 5–10 Minuten.**
+Die Aufgabenstellung steht direkt als Kommentar über der Methode in der Datei.
+
+| Kata | Datei | Stufe | XP |
+|:--|:--|:--|:--|
+| K01 | `K01Summe` | ★ | 10 |
+| K02 | `K02Maximum` | ★ | 10 |
+| K03 | `K03ZaehleGerade` | ★ | 10 |
+| K04 | `K04Enthaelt` | ★ | 10 |
+| K05 | `K05Umgedreht` | ★ | 10 |
+| K06 | `K06ZaehleVokale` | ★ | 10 |
+| K07 | `K07Palindrom` | ★★ | 20 |
+| K08 | `K08FizzBuzz` | ★ | 10 |
+| K09 | `K09Quersumme` | ★★ | 20 |
+| K10 | `K10IstSortiert` | ★★ | 20 |
+| K11 | `K11Verdoppeln` | ★★ | 20 |
+| K12 | `K12Tauschen` | ★★ | 20 |
+
+## So geht's
+
+1. Öffne `src/main/java/eidi/katas/K01Summe.java`, lies den Kommentar.
+2. Lösche die Zeile `throw new UnsupportedOperationException("TODO");` und schreibe deine Lösung.
+3. Öffne `src/test/java/eidi/katas/K01SummePublicTest.java` und klicke auf das grüne ▶ neben der Klasse.
+4. Grün? Commit + Push und im Thread schreiben: **„Abgabe K01“**.
+
+## Punkte
+
+- Bei der Abgabe laufen zusätzlich **versteckte Tests** (Grenzfälle: leeres Feld, negative Zahlen, ein Element …).
+- Alle Tests grün bei der **1. Abgabe**: volle XP. Bei der **2. Abgabe**: halbe XP. Mehr als 2 Abgaben gibt es nicht.
+- Du musst nicht der Reihe nach gehen. ★ ist leicht, ★★ braucht etwas mehr Nachdenken.

@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>katas</module>
         <module>a01-palindrom</module>
         <module>a02-rational</module>
         <module>a03-referenzen</module>
