@@ -10,7 +10,10 @@ public class K01Summe {
      * Ein leeres Feld hat die Summe 0.
      */
     public static int summe(int[] feld) {
-        // TODO: Lösche diese Zeile und schreibe deine Lösung
-        throw new UnsupportedOperationException("TODO");
+        int summe = 0;
+        for (int i = 0; i < feld.length; i++) {
+            summe += feld[i];
+        }
+        return summe;
     }
 }

@@ -9,7 +9,12 @@ public class K04Enthaelt {
      * Beispiel: enthaelt({4, 8, 15}, 8) == true
      */
     public static boolean enthaelt(int[] feld, int x) {
-        // TODO: Lösche diese Zeile und schreibe deine Lösung
-        throw new UnsupportedOperationException("TODO");
+        for (int i = 0; i < feld.length; i++) {
+            if (feld[i] == x){
+                return true;
+
+            }
+        }
+        return false;
     }
 }

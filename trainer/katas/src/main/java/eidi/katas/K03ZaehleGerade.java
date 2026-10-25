@@ -10,7 +10,12 @@ public class K03ZaehleGerade {
      * Tipp: Eine Zahl x ist gerade, wenn x % 2 == 0. Auch 0 und negative Zahlen wie -4 sind gerade.
      */
     public static int zaehleGerade(int[] feld) {
-        // TODO: Lösche diese Zeile und schreibe deine Lösung
-        throw new UnsupportedOperationException("TODO");
+        int counter = 0;
+        for (int i = 0; i < feld.length; i++) {
+            if (feld[i] % 2 == 0){
+                counter++;
+            }
+        }
+        return counter;
     }
 }

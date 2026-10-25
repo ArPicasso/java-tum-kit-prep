@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="a01-palindrom" />
+        <module name="katas" />
+        <module name="a06-liste" />
+        <module name="a04-kinosaal" />
+        <module name="a02-rational" />
+        <module name="a05-sortieren" />
+        <module name="a03-referenzen" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

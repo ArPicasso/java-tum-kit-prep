@@ -10,7 +10,11 @@ public class K09Quersumme {
      * Tipp: n % 10 ist die letzte Ziffer, n / 10 schneidet sie ab. Benutze eine while-Schleife.
      */
     public static int quersumme(int n) {
-        // TODO: Lösche diese Zeile und schreibe deine Lösung
-        throw new UnsupportedOperationException("TODO");
+        int summe = 0;
+        while (n >= 10){
+            summe += n%10;
+            n/=10;
+        }
+        return summe+n;
     }
 }

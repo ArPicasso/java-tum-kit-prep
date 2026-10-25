@@ -11,7 +11,8 @@ public class K11Verdoppeln {
      * Achtung: Mit for-each (for (int x : feld)) klappt das NICHT. Probier es aus und überlege, warum.
      */
     public static void verdoppleAlle(int[] feld) {
-        // TODO: Lösche diese Zeile und schreibe deine Lösung
-        throw new UnsupportedOperationException("TODO");
+        for (int i = 0; i < feld.length; i++) {
+            feld[i] *= 2;
+        }
     }
 }

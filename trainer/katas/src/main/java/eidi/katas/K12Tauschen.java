@@ -11,7 +11,9 @@ public class K12Tauschen {
      * Um die Getränke zu tauschen, brauchst du ein drittes, leeres Glas.
      */
     public static void tausche(int[] feld, int i, int j) {
-        // TODO: Lösche diese Zeile und schreibe deine Lösung
-        throw new UnsupportedOperationException("TODO");
+        int b;
+        b = feld[i];
+        feld[i] = feld[j];
+        feld[j] = b;
     }
 }

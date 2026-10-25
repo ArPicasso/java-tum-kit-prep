@@ -13,7 +13,18 @@ public class K08FizzBuzz {
      * Tipp: "" + n macht aus einer Zahl einen String.
      */
     public static String fizzBuzz(int n) {
-        // TODO: Lösche diese Zeile und schreibe deine Lösung
-        throw new UnsupportedOperationException("TODO");
+        boolean condition1 = (n % 3 == 0 & n % 5 == 0);
+        boolean condition2 = (n % 3 == 0);
+        boolean condition3 = ( n % 5 == 0);
+
+        if (condition1){
+            return "FizzBuzz";
+        } else if (condition2) {
+            return "Fizz";
+        } else if (condition3) {
+            return "Buzz";
+        } else{
+            return "" + n;
+        }
     }
 }

@@ -10,7 +10,11 @@ public class K05Umgedreht {
      * Tipp: s.length() ist die Länge, s.charAt(i) das Zeichen an Stelle i (ab 0).
      */
     public static String umgedreht(String s) {
-        // TODO: Lösche diese Zeile und schreibe deine Lösung
-        throw new UnsupportedOperationException("TODO");
+        String output = "";
+        for (int i = 0; i < s.length(); i++) {
+            output+=s.charAt(s.length()-1-i);
+        }
+
+        return output;
     }
 }

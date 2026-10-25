@@ -11,7 +11,14 @@ public class K10IstSortiert {
      * Achtung beim letzten Index: feld[i + 1] darf nicht aus dem Feld herauslaufen!
      */
     public static boolean istSortiert(int[] feld) {
-        // TODO: Lösche diese Zeile und schreibe deine Lösung
-        throw new UnsupportedOperationException("TODO");
+        if (feld.length == 0) {
+            return true;
+        }
+        for (int i = 0; i <= feld.length - 2; i++) {
+            if (feld[i] > feld[i+1]){
+                return false;
+            }
+        }
+        return true;
     }
 }
