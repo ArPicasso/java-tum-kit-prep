@@ -10,7 +10,7 @@ public class K02Maximum {
      * Das Feld hat immer mindestens ein Element. Achtung: Es kann nur negative Zahlen enthalten!
      */
     public static int maximum(int[] feld) {
-        int ma = -999;
+        int ma = -999999999;
         for (int i = 0; i < feld.length; i++) {
             if (feld[i] > ma){
                 ma = feld[i];

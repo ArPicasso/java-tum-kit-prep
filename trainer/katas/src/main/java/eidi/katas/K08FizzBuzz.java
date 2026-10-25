@@ -13,7 +13,7 @@ public class K08FizzBuzz {
      * Tipp: "" + n macht aus einer Zahl einen String.
      */
     public static String fizzBuzz(int n) {
-        boolean condition1 = (n % 3 == 0 & n % 5 == 0);
+        boolean condition1 = (n % 3 == 0 && n % 5 == 0);
         boolean condition2 = (n % 3 == 0);
         boolean condition3 = ( n % 5 == 0);
 

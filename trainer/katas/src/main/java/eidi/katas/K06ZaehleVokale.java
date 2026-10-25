@@ -13,11 +13,8 @@ public class K06ZaehleVokale {
         String alph = "aeiou";
         int counter = 0;
         for (int i = 0; i < s.length(); i++) {
-            loop: for (int j = 0; j < alph.length(); j++) {
-                if (Character.toLowerCase(s.charAt(i)) == Character.toLowerCase(alph.charAt(j))){
-                    counter++;
-                    break loop;
-                }
+            if (alph.indexOf(s.charAt(i)) != -1){
+                counter++;
             }
         }
         return counter;
