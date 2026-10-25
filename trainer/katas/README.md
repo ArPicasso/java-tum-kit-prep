@@ -17,6 +17,20 @@ Die Aufgabenstellung steht direkt als Kommentar über der Methode in der Datei.
 | K10 | `K10IstSortiert` | ★★ | 20 |
 | K11 | `K11Verdoppeln` | ★★ | 20 |
 | K12 | `K12Tauschen` | ★★ | 20 |
+|  |  |  |  |
+| **Level 2** |  |  |  |
+| K13 | `K13Zweitgroesste` | ★★ | 20 |
+| K14 | `K14ZaehleWort` | ★★ | 20 |
+| K15 | `K15Primzahl` | ★★ | 20 |
+| K16 | `K16GgT` | ★★ | 20 |
+| K17 | `K17RotiereLinks` | ★★ | 20 |
+| K18 | `K18Zeilensummen` | ★★ | 20 |
+| K19 | `K19OhneDuplikate` | ★★★ | 30 |
+| K20 | `K20Haeufigstes` | ★★★ | 30 |
+| K21 | `K21Anagramm` | ★★★ | 30 |
+| K22 | `K22Transponiere` | ★★★ | 30 |
+| K23 | `K23Komprimiere` | ★★★ | 30 |
+| K24 | `K24Caesar` | ★★★ | 30 |
 
 ## So geht's
 
@@ -29,4 +43,5 @@ Die Aufgabenstellung steht direkt als Kommentar über der Methode in der Datei.
 
 - Bei der Abgabe laufen zusätzlich **versteckte Tests** (Grenzfälle: leeres Feld, negative Zahlen, ein Element …).
 - Alle Tests grün bei der **1. Abgabe**: volle XP. Bei der **2. Abgabe**: halbe XP. Mehr als 2 Abgaben gibt es nicht.
-- Du musst nicht der Reihe nach gehen. ★ ist leicht, ★★ braucht etwas mehr Nachdenken.
+- Du musst nicht der Reihe nach gehen. ★ ist leicht, ★★ braucht etwas mehr Nachdenken, ★★★ ist eine kleine Knobelaufgabe.
+- **Nach jeder Änderung die Tests neu laufen lassen**, auch bei „nur kurz aufgeräumt“.
